@@ -336,3 +336,26 @@ Such a provider launching on Testnet is prioritized in researching (Tasks 1 and 
 If there are no plans for publishing an SDK/API before launching on Mainnet then the ASA Stats Team will start as soon as possible with the reverse engineering of the provider’s dApps in order to implement the provider’s engine in ASA Stats. The same principle will take place for the other types of lower priority engines (Tasks 5, 6, and 7).
 Because of all of the reasons presented above, the exact timeline isn't possible - the existing resources will always be reoriented on every new provider launching on Mainnet. The principal investigator expects that the Algorand Foundation finds an acceptable format for the schedule if the format that follows doesn’t suit the Foundation.
 
+
+1. DEX research
+   * 3-10 days for each provider
+     * depends on the provider’s cooperability, availability of documentation, and other factors
+
+
+2. DEX implementation
+   a) Creation of a dex package inside the main ASA Stats application  
+      * 2-5 days  
+        * The development will start in parallel with Task 1 and Task 2.2 for AlgoDEX  
+   b) Creation of dex package modules for every DEX provider  
+      * 5-10 days for the first provider (AlgoDEX)  
+      * 2-7 days for the rest of the providers  
+
+
+3. AMM research  
+   * 3-7 days for each provider  
+     * depends on the provider’s cooperability, availability of documentation, and other factors  
+
+
+4. AMM implementation  
+   a). Creation of amm package modules for every AMM provider  
+       * 2-7 days for each provider  
