@@ -8,10 +8,10 @@ The ASA Stats Team, with the help of the ASA Stats community, will research all 
 
 
 2. DEX implementation  
-  The deliverables from the following two points will be done for every available DEX on the Algorand blockchain. As of January 2022, that includes at least AlgoDEX.
+The deliverables from the following two points will be done for every available DEX on the Algorand blockchain. As of January 2022, that includes at least AlgoDEX.
 
     a. Creation of a dex package inside the main ASA Stats application  
-  ASA Stats Team will create a root dex package for all the DEX related providers. That package will be used as an interface for the main application.
+ASA Stats Team will create a root dex package for all the DEX related providers. That package will be used as an interface for the main application.
 
     b. Creation of dex package modules for every DEX provider  
 Every individual DEX provider will get its own module inside the dex package. The ASA Stats Team will be responsible for their development, as well as for their updates.
@@ -44,16 +44,15 @@ The ASA Stats Team, with the help of its community, will research all available 
    * https://www.zestbloom.io/
 
 
-6. NFT markets/galleries implementation
+6. NFT markets/galleries implementation  
 The nft package is a common code created for all the markets/galleries, while the specific markets/galleries will get their own modules under that package.
 
-
-   a. Creation of nft package inside the main ASA Stats application
+   a. Creation of nft package inside the main ASA Stats application  
 The ASA Stats Team will create a root nft package for all the NFT related providers. That package will be used as an interface for the main application.
 
-
-   b. Creation of nft package modules for each NFT market/gallery
+   b. Creation of nft package modules for each NFT market/gallery  
 Every individual NFT market/gallery will get its own module inside the nft package. The ASA Stats Team will be responsible for their development as well as for their updates. As of January 2022, the initial set of NFT markets/galleries are defined in  section 5. If the research leads to a decision for implementation of all of them, the following modules will be created:
+
    * algoxnft
    * ab2
    * randgallery
@@ -69,9 +68,10 @@ Every individual NFT market/gallery will get its own module inside the nft packa
 7. Other dApps and engines research and implementation  
 The everlasting goal for the ASA Stats Team is an implementation of every dApp on the Algorand blockchain. Additionally, centralized applications that lock or somehow influence the amount of ALGO and ASA in an account will be implemented. As of January 2022, ASA Stats has implemented the following Mainnet solutions: Yieldly staking, Lofti.ai property tokens evaluation, Algofi DeFi, and Smile Staking.
 
-   a. Folks Finance research and implementation
+   a. Folks Finance research and implementation  
 Folks.finance is a DeFi provider that hasn’t been launched on Testnet as of January, 2022.
-   b. Other providers research and implementation
+
+   b. Other providers research and implementation  
 Every other provider will be researched and their specifics will be implemented inside the ASA Stats main application and related data will be rendered in the address pages.
 
 
