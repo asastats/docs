@@ -3,15 +3,15 @@
 For each provider that will be included in ASA Stats (namely DEX, AMM, DeFi providers, staking pool programs, etc), a Scrum sprint will be organized. Every provider will be contacted and asked about their intention to publish a public API/SDK for their product. In cases where an API/SDK won’t be available within a reasonable time frame, the ASA Stats Team will reverse engineer their dApps in order to include them in ASA Stats. At the same time, the ASA Stats Team will offer to contribute to the development, testing, and documentation of their Python and Javascript/Typescript SDKs.
 
 
-1. DEX research
+1. DEX research  
 The ASA Stats Team, with the help of the ASA Stats community, will research all the decentralized exchange solutions on the Algorand blockchain. 
 
 
 2. DEX implementation  
-The deliverables from the following two points will be done for every available DEX on the Algorand blockchain. As of January 2022, that includes at least AlgoDEX.
+  The deliverables from the following two points will be done for every available DEX on the Algorand blockchain. As of January 2022, that includes at least AlgoDEX.
 
     a. Creation of a dex package inside the main ASA Stats application  
-ASA Stats Team will create a root dex package for all the DEX related providers. That package will be used as an interface for the main application.
+  ASA Stats Team will create a root dex package for all the DEX related providers. That package will be used as an interface for the main application.
 
     b. Creation of dex package modules for every DEX provider  
 Every individual DEX provider will get its own module inside the dex package. The ASA Stats Team will be responsible for their development, as well as for their updates.
