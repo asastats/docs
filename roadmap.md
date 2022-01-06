@@ -53,16 +53,16 @@ The ASA Stats Team will create a root nft package for all the NFT related provid
    b. Creation of nft package modules for each NFT market/gallery  
 Every individual NFT market/gallery will get its own module inside the nft package. The ASA Stats Team will be responsible for their development as well as for their updates. As of January 2022, the initial set of NFT markets/galleries are defined in  section 5. If the research leads to a decision for implementation of all of them, the following modules will be created:
 
-   * algoxnft
-   * ab2
-   * randgallery
-   * abris
-   * algogems
-   * dahai
-   * dartroom
-   * gifeconomy
-   * aorist
-   * zestbloom
+   * `algoxnft`
+   * `ab2`
+   * `randgallery`
+   * `abris`
+   * `algogems`
+   * `dahai`
+   * `dartroom`
+   * `gifeconomy`
+   * `aorist`
+   * `zestbloom`
 
 
 7. Other dApps and engines research and implementation  
@@ -78,14 +78,11 @@ Every other provider will be researched and their specifics will be implemented 
 8. Real-time data refresh  
 Currently, users have to refresh an address page in order to receive the latest data. Real-time data refresh will allow users to be automatically subscribed to the address page changes in a single-page application manner. ASA Stats will be using the WebSocket channels for this purpose.
 
-
    a. Development and deployment of the background service communicating with the Algorand node  
 The service will be listening to the changes in relation to the subscribed ASA. It will be updating in-memory database records. It will also update related signal slots that the server-side application will be using.
 
-
    b. Development of the server-side modules responsible for communicating with the in-memory database and sending messages to the subscribers.  
 This package will be listening to the signal slots in the in-memory database and it will be sending related messages to the subscribed web pages. Multiple instances of the Daphne WebSocket server will be configured and deployed for this purpose.
-
 
    c. Development of the client-side code used for rendering of the updated page elements.  
 Client-side code will be used to send connect (subscribe) and disconnect (unsubscribe) signals to the Daphne server. A variety of template snippets will be created for the purpose of rendering only the needed parts of the address page.
@@ -93,7 +90,6 @@ Client-side code will be used to send connect (subscribe) and disconnect (unsubs
 
 9. Database system  
 The authentication and permission system, as well as user settings and events, require a server-side database. A system of one master database and multiple read-only replicas will be implemented.
-
 
    a. Database system provisioning  
 An Ansible playbook script with related roles will be created for the deployment and migration of the database master and its replicas.
@@ -105,22 +101,17 @@ An Ansible playbook script with related roles for the creation of backup scripts
 10. Permissions, authentication and authorization system  
 Functionalities that have not been included in the basic/free plan will be accessible through the server-side permissions system. Non-free users will have to authenticate and authorize before accessing non-free content and functionalities they are allowed to.
 
-
 11. User settings system  
 Both anonymous and advanced users will be able to access a page where they will be able to configure various settings defining how the data through the site will be presented to them.
-
 
    a. Settings database design and documentation  
 Database structure for the user settings will be the same for anonymous and advanced users, and only the ways of accessing and storing it by the users and website engine will differ.
 
-
    b. User settings page  
 Users will be able to update their preferences on the settings page. Their actions will be recorded in the settings database.
 
-
    c. Anonymous users settings  
 Anonymous user settings will be recorded and kept in the user browser’s local storage. Users will be responsible for requesting backups to be saved on the website, in order for them to be restored upon user request.
-
 
    d. Advanced users settings  
 Advanced user settings will be recorded in the PostgreSQL database on the server.
