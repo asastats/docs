@@ -1,7 +1,6 @@
 ### HIGH PRIORITY BUG REPORTS
 
 - [ ] Fourth or fifth wallet address in bundle going off screen on mobile  
-https://discord.com/channels/906917846754418770/908054330265960478/916464822768525332
 
 ### MEDIUM PRIORITY BUG REPORTS
 
