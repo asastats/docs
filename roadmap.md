@@ -337,17 +337,16 @@ If there are no plans for publishing an SDK/API before launching on Mainnet then
 Because of all of the reasons presented above, the exact timeline isn't possible - the existing resources will always be reoriented on every new provider launching on Mainnet. The principal investigator expects that the Algorand Foundation finds an acceptable format for the schedule if the format that follows doesn’t suit the Foundation.
 
 
+
 1. DEX research
    - 3-10 days for each provider
      - depends on the provider’s cooperability, availability of documentation, and other factors
 
 
 2. DEX implementation
-
    a) Creation of a dex package inside the main ASA Stats application  
       - 2-5 days  
         - The development will start in parallel with Task 1 and Task 2.2 for AlgoDEX  
-
    b) Creation of dex package modules for every DEX provider  
       - 5-10 days for the first provider (AlgoDEX)  
       - 2-7 days for the rest of the providers  
@@ -359,6 +358,37 @@ Because of all of the reasons presented above, the exact timeline isn't possible
 
 
 4. AMM implementation  
-   a). Creation of amm package modules for every AMM provider  
-       - 2-7 days for each provider  
+   a) Creation of amm package modules for every AMM provider  
+      - 2-7 days for each provider  
 
+
+5. NFT markets/galleries research  
+   - 1-7 days for each provider  
+
+
+6. NFT markets/galleries implementation  
+   a) Creation of nft package inside the main ASA Stats application  
+      - 2-5 days  
+        - The development will start in parallel with Task 5 and Task 6.2 for the four major NFT markets/galleries.
+   b) Creation of nft package modules for each NFT market/gallery  
+      - 7-15 days for the beta version implementing the first four major providers
+      - 5-20 days for the official release
+      - 1-7 days for each of the other providers
+
+
+7. Other dApps and engines research and implementation
+   a) Folks Finance research and implementation
+      - 5-10 days
+        - depends on Folks Finance’s cooperability, availability of documentation, and other factors
+   b) Other providers research and implementation
+      - 2-15 days for each provider
+      - depends on provider’s cooperability, availability of documentation, and other factors
+
+
+8. Real-time data refresh
+   a) Development and deployment of the background service communicating with the Algorand node 
+      - 5 days
+   b) Development of the server-side modules responsible for communicating with the in-memory database and sending messages to the subscribers.
+      - 7 days
+   c) Development of the client-side code used for rendering of the updated page elements.
+      - 7 days
