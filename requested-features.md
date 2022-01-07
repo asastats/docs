@@ -1,10 +1,10 @@
-### HIGH PRIORITY FEATURE REQUESTS
+### HIGH PRIORITY FEATURES
 
 - [ ] Showing Choice coin governance votes committed by individual users
 - [ ] USD on hover; allowing for users to see USD values of assets in the various asset table by placing the cursor over the icon without clicking
 - [ ] Redirect with error message on deleted cache; bookmarked hash address redirecting to error page
 
-### MEDIUM PRIORITY FEATURE REQUESTS
+### MEDIUM PRIORITY FEATURES
 
 - [ ] AlgoFi staking LP tokens
 - [ ] Yieldly staking LP tokens
@@ -18,7 +18,7 @@
 - [ ] Every asset row should show how much it covers or represents from whole portfolio; like the pie chart does.
 - [ ] Filtering and searching ASA in case of very many assets; incorporate a sort/filter/search function, or paging.
 
-### LOW PRIORITY FEATURE REQUESTS 
+### LOW PRIORITY FEATURES 
 
 - [ ] Share address page without exposing actual addresses
 - [ ] Show values in a currency user selects
