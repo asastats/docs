@@ -337,39 +337,46 @@ If there are no plans for publishing an SDK/API before launching on Mainnet then
 Because of all of the reasons presented above, the exact timeline isn't possible - the existing resources will always be reoriented on every new provider launching on Mainnet. The principal investigator expects that the Algorand Foundation finds an acceptable format for the schedule if the format that follows doesn’t suit the Foundation.
 
 
-
 1. DEX research
+
    - 3-10 days for each provider
      - depends on the provider’s cooperability, availability of documentation, and other factors
 
 
 2. DEX implementation
+
    a) Creation of a dex package inside the main ASA Stats application  
       - 2-5 days  
         - The development will start in parallel with Task 1 and Task 2.2 for AlgoDEX  
+
    b) Creation of dex package modules for every DEX provider  
       - 5-10 days for the first provider (AlgoDEX)  
       - 2-7 days for the rest of the providers  
 
 
 3. AMM research  
+
    - 3-7 days for each provider  
      - depends on the provider’s cooperability, availability of documentation, and other factors  
 
 
 4. AMM implementation  
+
    a) Creation of amm package modules for every AMM provider  
       - 2-7 days for each provider  
 
 
 5. NFT markets/galleries research  
+
    - 1-7 days for each provider  
 
 
 6. NFT markets/galleries implementation  
+
    a) Creation of nft package inside the main ASA Stats application  
       - 2-5 days  
         - The development will start in parallel with Task 5 and Task 6.2 for the four major NFT markets/galleries.
+
    b) Creation of nft package modules for each NFT market/gallery  
       - 7-15 days for the beta version implementing the first four major providers
       - 5-20 days for the official release
@@ -377,18 +384,210 @@ Because of all of the reasons presented above, the exact timeline isn't possible
 
 
 7. Other dApps and engines research and implementation
+
    a) Folks Finance research and implementation
       - 5-10 days
         - depends on Folks Finance’s cooperability, availability of documentation, and other factors
+
    b) Other providers research and implementation
       - 2-15 days for each provider
       - depends on provider’s cooperability, availability of documentation, and other factors
 
 
-8. Real-time data refresh
+8. Real-time data refresh  
+
    a) Development and deployment of the background service communicating with the Algorand node 
       - 5 days
+
    b) Development of the server-side modules responsible for communicating with the in-memory database and sending messages to the subscribers.
       - 7 days
+
    c) Development of the client-side code used for rendering of the updated page elements.
       - 7 days
+
+
+9. Database system
+
+   a) Database system provisioning
+      - 7 days
+
+   b) Database backup system
+      - 2 days
+
+
+10. Permissions, authentication and authorization system
+
+    - 15 days
+
+
+11. User settings system
+
+   a) Settings database design and documentation
+      - 7 days
+   b) User settings page
+      - 5 days
+   c) Anonymous users settings
+      - 3 days
+   d) Advanced users settings
+      - 7 days
+
+
+12. Development and publishing of ASA Stats API
+
+   a) API  research
+      - 10 days
+   b) API  development
+      - 20 days
+   c) API documentation
+      - 7 days
+
+
+13. Advanced bundles functionality
+
+   a) Research of advanced bundles functionality
+      - 10 days
+   b) Implementation of advanced bundles functionality
+      - 7 days
+
+
+14. API call throttling
+
+   a) API calls throttling research
+      - 7 days
+   b) Implementation of API call throttling
+      - 5 days
+
+
+15. Price and value events system
+
+   a) Research of the types and specifics of the events
+      - 15 days
+   b) Research of the optimal implementation for the events system
+      - 10 days
+   c) Events database design and documentation
+      - 7 days
+   e) Events system configuration
+      - 7 days
+   f) Events system implementation
+      - 15 days
+
+
+16. Widgets system
+
+   a) Research of the comprehensible widget types
+      - 15 days
+   b) Widget configuration system
+      - 7 days
+   c) Development of the widget system - server-side
+      - 10 days
+   d) Development of the widget system - client side
+      - 10 days
+
+
+17. Website improvements
+
+   a) Algofi staking of the Tinyman pool tokens
+      - 2 days
+   b) Yieldly staking of the Tinyman pool tokens
+      - 2 days
+   c) Optimal price and related amounts domain logic
+      - 5 days
+   d) Integration and functional tests of the existing functionalities
+      - 20 days
+   e) Client-side code unit tests (the existing functionalities)
+      - 7 days
+   f) Filtering and searching by ASA
+      - 5 days
+   g) ASA list pagination
+      - 2 days
+   h) Mock portfolio builder
+      - 10 days
+   i) Research and development of additional currencies
+      - 5 days
+   j) Website’s internalization
+      - 5 days for the development
+      - 5-15 days for each major language to be added to the website
+
+18. Subscription/payment system
+
+   a) Research of possible solution providers
+      - 15 days
+   b) Subscription tiers database setup
+      - 5 days
+   c) Data from subscription tiers configured for providers
+      - 2-5 days
+        - it depends of provider’s documentation and other factors
+   d) Payment workflow implementation on the website
+      - 10 days
+   e) Permission system update
+      - 3 days
+   f) Customer support system setup
+      - 5 days
+
+19. QA testing
+
+   a) Beta testing administration
+      - 20 days
+   b) Kubernetes cluster testing
+      - 5 days
+   c) UX testing
+      - 2-10 days for each testing setup
+
+20. Marketing
+
+   a) Social media campaign design
+      - 15 days
+   b) Social media campaign
+      - ongoing efforts after the campaign starts
+   c) Video tutorials production
+      - 10-20 days for each video
+        - it depends of complexity of video, as well as of producer’s availability
+   d) Promotional videos production
+      - 15-30 days for each video
+        - it depends of complexity of video, as well as of producer’s availability
+
+21. Legal stuff
+
+   a) Establishment of a legal entity
+      - 15-30 days
+        - it depends on the results of the discussion that started in the ASA Stats official channels
+   b) Legal entity administration in the first two years
+   c) Terms of use page
+      - 3 days
+   d) Privacy policy page
+      - 3 days
+   e) Legal documents for the professional users
+      - 7-10 days
+   f) Contracts for the new members of the ASA Stats Team
+      - 7-10 days
+
+22. Administration and support for the first two years
+
+   a) Load balancer and VPS purchase for the pre-Kubernetes phase
+      - 2 days
+   b) Indexer instance purchase
+   c) VPS purchase for the Kubernetes cluster
+      - 2 days
+        - The period refers to the initial setup for all the VPS
+   d) Customer support and feature requests
+      - 1 day
+   e) Social media posts content writing
+      - ongoing efforts after the campaign starts
+
+23. Containerization and Kubernetes cluster creation
+
+   a) Containerization of the website services
+      - 15 days
+   b) Adding Algorand infrastructure to the Kubernetes cluster
+      - 5 days
+   c) Configuration files for the Kubernetes cluster deployment and services
+      - 20 days
+
+24. DAO whitepaper
+    - 45 days
+
+25. Open-sourcing the website
+   a) Creating CI/CD pipeline for the website
+      - 15 days
+   b) Creating CI/CD pipeline for the documentation
+      - 10 days
