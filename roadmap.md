@@ -430,7 +430,7 @@ Because of all of the reasons presented above, the exact timeline isn't possible
 
     c) Anonymous users settings
        - 3 days
-       
+
     d) Advanced users settings
        - 7 days
 
@@ -439,8 +439,10 @@ Because of all of the reasons presented above, the exact timeline isn't possible
 
     a) API  research
        - 10 days
+
     b) API  development
        - 20 days
+
     c) API documentation
        - 7 days
 
@@ -449,6 +451,7 @@ Because of all of the reasons presented above, the exact timeline isn't possible
 
     a) Research of advanced bundles functionality
        - 10 days
+
     b) Implementation of advanced bundles functionality
        - 7 days
 
@@ -457,6 +460,7 @@ Because of all of the reasons presented above, the exact timeline isn't possible
 
     a) API calls throttling research
        - 7 days
+
     b) Implementation of API call throttling
        - 5 days
 
@@ -465,12 +469,16 @@ Because of all of the reasons presented above, the exact timeline isn't possible
 
     a) Research of the types and specifics of the events
        - 15 days
+
     b) Research of the optimal implementation for the events system
        - 10 days
+       
     c) Events database design and documentation
        - 7 days
+
     e) Events system configuration
        - 7 days
+
     f) Events system implementation
        - 15 days
 
@@ -479,10 +487,13 @@ Because of all of the reasons presented above, the exact timeline isn't possible
 
     a) Research of the comprehensible widget types
        - 15 days
+
     b) Widget configuration system
        - 7 days
+
     c) Development of the widget system - server-side
        - 10 days
+
     d) Development of the widget system - client side
        - 10 days
 
@@ -491,22 +502,31 @@ Because of all of the reasons presented above, the exact timeline isn't possible
 
     a) Algofi staking of the Tinyman pool tokens
        - 2 days
+
     b) Yieldly staking of the Tinyman pool tokens
        - 2 days
+
     c) Optimal price and related amounts domain logic
        - 5 days
+
     d) Integration and functional tests of the existing functionalities
        - 20 days
+
     e) Client-side code unit tests (the existing functionalities)
        - 7 days
+
     f) Filtering and searching by ASA
        - 5 days
+
     g) ASA list pagination
        - 2 days
+
     h) Mock portfolio builder
        - 10 days
+
     i) Research and development of additional currencies
        - 5 days
+
     j) Website’s internalization
        - 5 days for the development
        - 5-15 days for each major language to be added to the website
@@ -515,15 +535,20 @@ Because of all of the reasons presented above, the exact timeline isn't possible
 
     a) Research of possible solution providers
        - 15 days
+
     b) Subscription tiers database setup
        - 5 days
+
     c) Data from subscription tiers configured for providers
        - 2-5 days
          - it depends of provider’s documentation and other factors
+
     d) Payment workflow implementation on the website
        - 10 days
+
     e) Permission system update
        - 3 days
+
     f) Customer support system setup
        - 5 days
 
@@ -531,8 +556,10 @@ Because of all of the reasons presented above, the exact timeline isn't possible
 
     a) Beta testing administration
        - 20 days
+
     b) Kubernetes cluster testing
        - 5 days
+
     c) UX testing
        - 2-10 days for each testing setup
 
@@ -540,11 +567,14 @@ Because of all of the reasons presented above, the exact timeline isn't possible
 
     a) Social media campaign design
        - 15 days
+
     b) Social media campaign
        - ongoing efforts after the campaign starts
+
     c) Video tutorials production
        - 10-20 days for each video
          - it depends of complexity of video, as well as of producer’s availability
+
     d) Promotional videos production
        - 15-30 days for each video
          - it depends of complexity of video, as well as of producer’s availability
@@ -554,13 +584,18 @@ Because of all of the reasons presented above, the exact timeline isn't possible
     a) Establishment of a legal entity
        - 15-30 days
          - it depends on the results of the discussion that started in the ASA Stats official channels
+
     b) Legal entity administration in the first two years
+
     c) Terms of use page
        - 3 days
+
     d) Privacy policy page
        - 3 days
+
     e) Legal documents for the professional users
        - 7-10 days
+
     f) Contracts for the new members of the ASA Stats Team
        - 7-10 days
 
@@ -568,12 +603,16 @@ Because of all of the reasons presented above, the exact timeline isn't possible
 
     a) Load balancer and VPS purchase for the pre-Kubernetes phase
        - 2 days
+
     b) Indexer instance purchase
+
     c) VPS purchase for the Kubernetes cluster
        - 2 days
          - The period refers to the initial setup for all the VPS
+
     d) Customer support and feature requests
        - 1 day
+
     e) Social media posts content writing
        - ongoing efforts after the campaign starts
 
@@ -581,8 +620,10 @@ Because of all of the reasons presented above, the exact timeline isn't possible
 
     a) Containerization of the website services
        - 15 days
+
     b) Adding Algorand infrastructure to the Kubernetes cluster
        - 5 days
+
     c) Configuration files for the Kubernetes cluster deployment and services
        - 20 days
 
@@ -590,8 +631,9 @@ Because of all of the reasons presented above, the exact timeline isn't possible
     - 45 days
 
 25. Open-sourcing the website
+
     a) Creating CI/CD pipeline for the website
        - 15 days
+       
     b) Creating CI/CD pipeline for the documentation
        - 10 days
-
