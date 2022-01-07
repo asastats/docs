@@ -193,7 +193,6 @@ Based on the documentation for the providers from the previous point, a server-s
     d) Development of the widget system - client side  
 User widgets will be requesting data from the service defined in the previous point in a non-blocking way. Upon receiving data back, the widget will be rendered.
 
-
 17) Website improvements  
 ASA Stats website needs various improvements to fullify user requests and/or to provide the optimal user experience.
 
