@@ -1,14 +1,13 @@
 ### HIGH PRIORITY BUG REPORTS
 
-- [ ] Remove canceled Lofty.ai properties
-- [ ] Slogan is cut off along the bottom
-- [ ] Position cursor at the end of address upon bundle opening
-- [ ] Fourth or fifth wallet address in bundle going off screen on mobile
+- [ ] Fourth or fifth wallet address in bundle going off screen on mobile  
+https://discord.com/channels/906917846754418770/908054330265960478/916464822768525332
 
 ### MEDIUM PRIORITY BUG REPORTS
 
 - [ ] Open bundle with comma, semicolon and underscore too. 
 - [ ] Invisible chart pie for wallet that does not have other ASA (assets); on mobile
+- [ ] Position cursor at the end of address upon bundle opening
 - [ ] Data should be recalculated without crossed ASA, cursor hovering the charts should change 
 -The "others" section on the pie chart upon click should separate out embedded assets with their corresponding percentage 
 - [ ] Chart legend goes to 2 columns for too many ASA
@@ -16,7 +15,8 @@
 
 ### LOW PRIORITY BUG REPORTS
 
-- [ ] Two address- [ ] Long ASA name text overlapping
+- [ ] Slogan is cut off along the bottom
+- [ ] Long ASA name text overlapping
 - [ ] Two addresses switch button bug; values displayed in Algo with USD switch on ( while transiting from a browser tab to the other, containing different wallet)
 - [ ] Lofty property has never been sold and a logger message is created
 - [ ] clicked social icons remain focused after reverting from other tab
