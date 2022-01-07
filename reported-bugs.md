@@ -1,18 +1,18 @@
-### HIGH PRIORITY BUG REPORTS
+### HIGH PRIORITY BUGS
 
 - [ ] Fourth or fifth wallet address in bundle going off screen on mobile  
 
-### MEDIUM PRIORITY BUG REPORTS
+### MEDIUM PRIORITY BUGS
 
 - [ ] Open bundle with comma, semicolon and underscore too. 
 - [ ] Invisible chart pie for wallet that does not have other ASA (assets); on mobile
 - [ ] Position cursor at the end of address upon bundle opening
 - [ ] Data should be recalculated without crossed ASA, cursor hovering the charts should change 
--The "others" section on the pie chart upon click should separate out embedded assets with their corresponding percentage 
+- [ ] The "others" section on the pie chart upon click should separate out embedded assets with their corresponding percentage 
 - [ ] Chart legend goes to 2 columns for too many ASA
 - [ ] Large amounts are rendered below icon on mobile
 
-### LOW PRIORITY BUG REPORTS
+### LOW PRIORITY BUGS
 
 - [ ] Slogan is cut off along the bottom
 - [ ] Long ASA name text overlapping
