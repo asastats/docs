@@ -12,13 +12,13 @@ The ASA Stats Team, with the help of the ASA Stats community, will research all 
 2. DEX implementation  
 The deliverables from the following two points will be done for every available DEX on the Algorand blockchain. As of January 2022, that includes at least AlgoDEX.
 
-    a) Creation of a `dex` package inside the main ASA Stats application  
+   a) Creation of a `dex` package inside the main ASA Stats application  
 ASA Stats Team will create a root dex package for all the DEX related providers) That package will be used as an interface for the main application.
 
-    b) Creation of dex package modules for every DEX provider  
+   b) Creation of dex package modules for every DEX provider  
 Every individual DEX provider will get its own module inside the dex package. The ASA Stats Team will be responsible for their development, as well as for their updates.
 
-       - [ ] `algodex`
+      - [ ] `algodex`
 
 
 3) AMM research  
