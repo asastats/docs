@@ -12,12 +12,12 @@ The ASA Stats Team, with the help of the ASA Stats community, will research all 
 2. DEX implementation  
 The deliverables from the following two points will be done for every available DEX on the Algorand blockchain. As of January 2022, that includes at least AlgoDEX.
 
-    [ ] a) Creation of a dex package inside the main ASA Stats application  
+    a) Creation of a `dex` package inside the main ASA Stats application  
 ASA Stats Team will create a root dex package for all the DEX related providers) That package will be used as an interface for the main application.
 
     b) Creation of dex package modules for every DEX provider  
 Every individual DEX provider will get its own module inside the dex package. The ASA Stats Team will be responsible for their development, as well as for their updates.
-       - [ ] AlgoDEX
+       - [ ] `algodex`
 
 
 3) AMM research  
@@ -33,8 +33,8 @@ The ASA Stats Team has developed the amm package inside the main application for
    a) Creation of amm package modules for every AMM provider  
 Every individual AMM provider will get its own module inside the amm package in the same way that the ASA Stats Team created the `tinyman` module. The ASA Stats Team will be responsible for their development, as well as for their updates.
 
-   - [ ] `humble`
-   - [ ] `yieldly`
+   - [ ] `humbleswap`
+   - [ ] `yieldlyamm`
 
 
 5) NFT markets/galleries research  
