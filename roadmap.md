@@ -338,24 +338,27 @@ Because of all of the reasons presented above, the exact timeline isn't possible
 
 
 1. DEX research
-   * 3-10 days for each provider
-     * depends on the provider’s cooperability, availability of documentation, and other factors
+   - 3-10 days for each provider
+     - depends on the provider’s cooperability, availability of documentation, and other factors
 
 
 2. DEX implementation
+
    a) Creation of a dex package inside the main ASA Stats application  
-      * 2-5 days  
-        * The development will start in parallel with Task 1 and Task 2.2 for AlgoDEX  
+      - 2-5 days  
+        - The development will start in parallel with Task 1 and Task 2.2 for AlgoDEX  
+
    b) Creation of dex package modules for every DEX provider  
-      * 5-10 days for the first provider (AlgoDEX)  
-      * 2-7 days for the rest of the providers  
+      - 5-10 days for the first provider (AlgoDEX)  
+      - 2-7 days for the rest of the providers  
 
 
 3. AMM research  
-   * 3-7 days for each provider  
-     * depends on the provider’s cooperability, availability of documentation, and other factors  
+   - 3-7 days for each provider  
+     - depends on the provider’s cooperability, availability of documentation, and other factors  
 
 
 4. AMM implementation  
    a). Creation of amm package modules for every AMM provider  
-       * 2-7 days for each provider  
+       - 2-7 days for each provider  
+
