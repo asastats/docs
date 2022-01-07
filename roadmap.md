@@ -129,10 +129,10 @@ Advanced user settings will be recorded in the PostgreSQL database on the server
 12) Development and publishing of ASA Stats API  
 ASA Stats application programming interface should be a base for every future partnership proposal and every feature implemented in ASA Stats should have a counterpart either in an API endpoint or in a supplied argument to it. 
 
-    a) API  research  
+    a) API research  
 The ASA Stats Team will research the best practices and code of conduct inside the Algorand community for the best practices for ASA Stats API and its documentation.
 
-    b) API  development  
+    b) API development  
 ASA Stats API will be developed based on the Code of Conduct from the previous point Based on provided reports, API calls will be developed with the possibilities for setting different permissions on them.
 
     c) API documentation  
