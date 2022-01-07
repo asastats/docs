@@ -424,10 +424,13 @@ Because of all of the reasons presented above, the exact timeline isn't possible
 
     a) Settings database design and documentation
        - 7 days
+
     b) User settings page
        - 5 days
+
     c) Anonymous users settings
        - 3 days
+       
     d) Advanced users settings
        - 7 days
 
