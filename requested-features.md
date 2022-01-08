@@ -20,6 +20,7 @@
 
 ### LOW PRIORITY FEATURES 
 
+- [ ] Scam/rug pulled tokens warning in the address page
 - [ ] Share address page without exposing actual addresses
 - [ ] Show values in a currency user selects
 - [ ] A collage view of all user's NFTs
