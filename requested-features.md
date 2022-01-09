@@ -41,22 +41,19 @@
 
 ### DEPENDENT FEATURES
 
-#### Historic data
-
-- [ ] Track gains and losses on ASA
-- [ ] US tax support
-- [ ] Average APY for staking
-- [ ] Borrowed values reversely calculated 
-
-
-#### Marketing
-
-- [ ] Algorand aggregation partner as the backend for CoinMarketCap
-
-
 #### User settings
 
 - [ ] Show values in a currency user selects
 - [ ] Hide ASA user selects
 - [ ] Hide ASA having value below specified amount in ALGO
 
+#### Marketing
+
+- [ ] Algorand aggregation partner as the backend for CoinMarketCap
+
+#### Historic data (by partnerships)
+
+- [ ] Track gains and losses on ASA
+- [ ] US tax support
+- [ ] Average APY for staking
+- [ ] Borrowed values reversely calculated 
