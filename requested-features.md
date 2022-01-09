@@ -17,6 +17,7 @@
 - [ ] Wallets charts in bundle; getting pie chart of individual wallet when viewing multi-wallet 
 - [ ] Every asset row should show how much it covers or represents from whole portfolio; like the pie chart does.
 - [ ] Filtering and searching ASA in case of very many assets; incorporate a sort/filter/search function, or paging.
+- [ ] Functionality that matches NFT - token pairs (like Algo Curator)
 
 ### LOW PRIORITY FEATURES 
 
@@ -37,3 +38,25 @@
 - [ ] Real-Time updating; example, as observed in raydium. io
 - [ ] Post API tiers options; in a bid to incentivize ASA stats services after API is fully implemented. 
 - [ ] List tokens that are not owned.
+
+### DEPENDENT FEATURES
+
+#### Historic data
+
+- [ ] Track gains and losses on ASA
+- [ ] US tax support
+- [ ] Average APY for staking
+- [ ] Borrowed values reversely calculated 
+
+
+#### Marketing
+
+- [ ] Algorand aggregation partner as the backend for CoinMarketCap
+
+
+#### User settings
+
+- [ ] Show values in a currency user selects
+- [ ] Hide ASA user selects
+- [ ] Hide ASA having value below specified amount in ALGO
+
