@@ -21,6 +21,7 @@
 
 ### LOW PRIORITY FEATURES 
 
+- [ ] NFT Grocery store market link
 - [ ] Scam/rug pulled tokens warning in the address page
 - [ ] Share address page without exposing actual addresses
 - [ ] Show values in a currency user selects
