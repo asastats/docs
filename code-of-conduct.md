@@ -61,6 +61,12 @@ The other minimal conditions are as follows:
 * You have to read and comprehend the [ASA Stats Guideline and FAQ](https://docs.google.com/document/d/1QvMSFlYjc9cv7oL_QlgaCpQ5GWJ2fogsI4b7PwV15bE/edit) 
 
 
+
+# Other conditions for becoming a Tasker
+
+*placeholder*
+
+
 # The Process
 
 A Tasker is a member of the ASA Stats community whose duty is to react to community members' requests.
@@ -101,7 +107,7 @@ No rewards will be allocated for pointing on a comment with `:this:`.
 
 ## Tasker
 
-A Tasker should first react as a Tasker and afterwards as a community member.
+A Tasker should first react as a Tasker and afterward as a community member.
 
 A Tasker reaction to a member request should follow the order of the following sections.
 
@@ -201,7 +207,7 @@ Marking a comment with `:na:` creates an obligation for the Tasker to further ex
 
 ### Issue creation
 
-The Tasker who has marked the comment with `:noted:` has to create a card in our Issue Tracker and assign him/herself to the card afterwards.
+The Tasker who has marked the comment with `:noted:` has to create a card in our Issue Tracker and assigns him/herself to the card afterward.
 
 The card should be created under the "Incoming" list in the related board. If the request is a priority bug report or update request, then the Tasker should label it that way (red/highest priority).
 
@@ -213,7 +219,7 @@ A related official should check if the issue from the card is already implemente
 
 #### Already exists
 
-If the card issue happens to already been implemented on the website, then the official marks the card with "Exists" label, adds the explanation to the card's description field, and moves the card under "Almost done" list.
+If the card issue happens to have already been implemented on the website, then the official marks the card with "Exists" label, adds the explanation to the card's description field, and moves the card under "Almost done" list.
 
 A Tasker should mark the original comment with `:exists:`, reply to it with the explanation copied/pasted from the card's description, and move the card under the "Archived" list.
 
@@ -227,7 +233,7 @@ A Tasker should mark the original comment with `:na:`, reply to it with the expl
 
 ### Issue acceptance
 
-A related official adds a priority label to the issue card and place it under "Backlog" or "Backlog (dependent)" list as the first/top card.
+A related official adds a priority label to the issue card and places it under "Backlog" or "Backlog (dependent)" list as the first/top card.
 
 A related official in this context represents a member of the ASA Stats Team, a developer in a subproject, a researcher assigned for some ongoing engine we’re going to implement in the ASA Stats website, a Tasker, an admin, etc.
 
@@ -238,7 +244,7 @@ A Tasker checks if the card's title has been copied/pasted in the related docume
 
 ### Issue work in progress
 
-An official starts to work on the issue and places the card under the "In progress" list and assign him/herself to the card afterwards.
+An official starts to work on the issue and places the card under the "In progress" list and assigns him/herself to the card afterward.
 
 
 ### Resolved issue
