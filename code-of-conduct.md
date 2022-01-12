@@ -11,7 +11,7 @@ There are three types of discussions in the ASA Stats project:
 
 * DAO discussions
 
-    * Those are the discussions conducted in the official repository and they are not related to the internal ASA Stats issues.
+    * Those are the discussions conducted in the [official repository](https://github.com/asastats/dao-discussion/discussions) and they are not related to the internal ASA Stats issues.
 
 * The official discussions
 
