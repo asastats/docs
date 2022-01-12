@@ -1,11 +1,9 @@
 # ASA Stats Tasker code of conduct
 
-## Draft 1
-
-Use [the official discussion thread](https://www.reddit.com/r/asastats/comments/rtprj8/asa_stats_tasker_code_of_conduct_discussion/) and [Google Docs document](https://docs.google.com/document/d/1fdvNnKWoHgu9VySbUecIERwVdDCzaFLMZlWZhcLG-xk/edit?usp=sharing) for the update suggestions.
+Draft 1 - Use [the official discussion thread](https://www.reddit.com/r/asastats/comments/rtprj8/asa_stats_tasker_code_of_conduct_discussion/) and [Google Docs document](https://docs.google.com/document/d/1fdvNnKWoHgu9VySbUecIERwVdDCzaFLMZlWZhcLG-xk/edit?usp=sharing) for the update suggestions.
 
 
-## ASA Stats discussions
+# ASA Stats discussions
 
 Everything in the ASA Stats should be decided upon in a public discussion.
 
@@ -24,7 +22,7 @@ There are three types of discussions in the ASA Stats project:
     * Basically everything else in our official channels. The exception to this is the places like #off-topic channel in our Discord for chatting without any benefit to the project, its users, or the community.
 
 
-## ASA Stats Taskers’ List
+# ASA Stats Taskers’ List
 
 Taskers reported bugs and requested features list are hosted in our GitHub:
 
@@ -39,7 +37,7 @@ Every card’s title from our Issue Tracker should get an entry in the list as a
 A checkbox is created by placing `- [ ] ` in front of the item, while the completed task/item is set by placing x instead of space `- [x] `.
 
 
-## Minimal conditions to become a Tasker
+# Minimal conditions to become a Tasker
 
 Every person who can read and write in English is allowed to become an ASA Stats Tasker - you have to be able to read and write in English to apply for the role.
 
@@ -63,7 +61,7 @@ The other minimal conditions are as follows:
 * You have to read and comprehend the [ASA Stats Guideline and FAQ](https://docs.google.com/document/d/1QvMSFlYjc9cv7oL_QlgaCpQ5GWJ2fogsI4b7PwV15bE/edit) 
 
 
-## The Process
+# The Process
 
 A Tasker is a member of the ASA Stats community whose duty is to react to community members' requests.
 
@@ -72,7 +70,7 @@ Any community member can react to a request by marking the comment with `:this:`
 On Reddit, the official marks like `:this:` are added by enclosing the command name by two colons and two backticks **\`:command:\`**.
 
 
-### Community member's :this:
+## Community member's :this:
 
 The community members mark a comment with `:this:` when they want to see a comment processed by the Taskers and the Team.
 
@@ -81,7 +79,7 @@ If the comment is already `:noted:` by a Tasker then `:this:` becomes optional.
 No rewards will be allocated for pointing on a comment with `:this:`.
 
 
-#### Platform-specific instructions for :this:
+### Platform-specific instructions for :this:
 
 * Discord
 
@@ -101,21 +99,21 @@ No rewards will be allocated for pointing on a comment with `:this:`.
     * The `:this:` tweet's count of retweets and likes has to be at least 20 in order to qualify for processing
 
 
-### Tasker
+## Tasker
 
 A Tasker should first react as a Tasker and afterwards as a community member.
 
 A Tasker reaction to a member request should follow the order of the following sections.
 
 
-#### :skip:
+### :skip:
 
 A Tasker should always `:skip:` a comment when they don't understand what it is about or when they feel there are Taskers with the better understanding of the topic.
 
 This is the default Tasker reaction. On Reddit and on Twitter it is implied - no need for making a `:skip:` comment on those platforms.
 
 
-##### Platform-specific instructions for :skip:
+#### Platform-specific instructions for :skip:
 
 * Discord
 
@@ -123,14 +121,14 @@ This is the default Tasker reaction. On Reddit and on Twitter it is implied - no
     * Other Taskers see a comment with `:skip:` just like any other unmarked comment
 
 
-#### :exists:
+### :exists:
 
 A Tasker marks a comment with `:exists:` when they are **certain** that the same/similar request has already been issued or if requested functionality is already implemented on website.
 
 The same Tasker or any other community member are encouraged to provide further explanation if such is needed. On the other hand, they are encouraged to ignore (besides `:exists:`) commenters having subsequent `:exists:` comments or who are referring to obviously already existing implementations.
 
 
-##### Platform-specific instructions for :exists:
+#### Platform-specific instructions for :exists:
 
 * Discord
 
@@ -152,14 +150,14 @@ The same Tasker or any other community member are encouraged to provide further 
     * The other community members can retweet and/or like the `:exists:` tweet if they want
 
 
-#### :noted:
+### :noted:
 
 A Tasker marks a comment with `:noted:` when they **comprehend** what has been asked for and when they are able to abstract the request into a single title sentence.
 
 Marking a comment with `:noted:` is an obligation for the Tasker to create a card in the ASA Stats Issue Tracker under "Incoming" list.
 
 
-##### Platform-specific instructions for :noted:
+#### Platform-specific instructions for :noted:
 
 * Discord
 
@@ -175,14 +173,14 @@ Marking a comment with `:noted:` is an obligation for the Tasker to create a car
     * A Tasker creates a retweet containing `:noted:` and the original tweet
 
 
-#### :na:
+### :na:
 
 A Tasker marks a comment with `:na:` (*not applicable*) when they are sure that the request won't be implemented in ASA Stats.
 
 Marking a comment with `:na:` creates an obligation for the Tasker to further explain the Tasker's/ASA Stats' reasoning for that to the commenter.
 
 
-##### Platform-specific instructions for :na:
+#### Platform-specific instructions for :na:
 
 * Discord
 
@@ -201,33 +199,33 @@ Marking a comment with `:na:` creates an obligation for the Tasker to further ex
     * A further explanation can be added in the same tweet next to the starting `:na:` followed by a space
 
 
-#### Issue creation
+### Issue creation
 
 The Tasker who has marked the comment with `:noted:` has to create a card in our Issue Tracker and assign him/herself to the card afterwards.
 
 The card should be created under the "Incoming" list in the related board. If the request is a priority bug report or update request, then the Tasker should label it that way (red/highest priority).
 
 
-#### Issue rejection
+### Issue rejection
 
 A related official should check if the issue from the card is already implemented.
 
 
-##### Already exists
+#### Already exists
 
 If the card issue happens to already been implemented on the website, then the official marks the card with "Exists" label, adds the explanation to the card's description field, and moves the card under "Almost done" list.
 
 A Tasker should mark the original comment with `:exists:`, reply to it with the explanation copied/pasted from the card's description, and move the card under the "Archived" list.
 
 
-##### Not applicable
+#### Not applicable
 
 If the card issue isn't possible to implement or in some other way the request won't be processed, then the official marks the card with "Not Applicable" label, adds the explanation to the card's description field, and moves the card under "Almost done" list.
 
 A Tasker should mark the original comment with `:na:`, reply to it with the explanation copied/pasted from the card's description, and move the card under the "Archived" list.
 
 
-#### Issue acceptance
+### Issue acceptance
 
 A related official adds a priority label to the issue card and place it under "Backlog" or "Backlog (dependent)" list as the first/top card.
 
@@ -238,19 +236,19 @@ The "Backlog (dependent)" list is used when some request depends on some other f
 A Tasker checks if the card's title has been copied/pasted in the related document ([reported bugs](https://github.com/asastats/docs/blob/main/reported-bugs.md)) or [requested features](https://github.com/asastats/docs/blob/main/requested-features.md)). If that's not the case, the Tasker assigns him/herself to the card and creates an item from the card's title in the related document in the position that reflects the related Issue Tracker board.
 
 
-#### Issue work in progress
+### Issue work in progress
 
 An official starts to work on the issue and places the card under the "In progress" list and assign him/herself to the card afterwards.
 
 
-#### Resolved issue
+### Resolved issue
 
 The official who resolved the issue moves the card to "Almost Done".
 
 A Tasker should mark the original comment with `:addressed:`, move the card under the "Done" list, and check-mark the item on GitHub ([reported bugs](https://github.com/asastats/docs/blob/main/reported-bugs.md)) or [requested features](https://github.com/asastats/docs/blob/main/requested-features.md)).
 
 
-##### Platform-specific instructions for :addressed:
+#### Platform-specific instructions for :addressed:
 
 * Discord
 
@@ -268,7 +266,7 @@ A Tasker should mark the original comment with `:addressed:`, move the card unde
     * A further explanation may be added in the same tweet next to the starting `:addressed:` followed by a space
 
 
-#### Issues evaluation
+### Issues evaluation
 
 The cards from the "Done" list are evaluated by the community after every cycle.
 
@@ -277,26 +275,26 @@ A cycle should be set to two weeks and it ends on Friday 23:59 UTC. A community 
 The cards belonging to the official discussions or to the other subprojects are excluded as they should have their own budgets.
 
 
-#### Commenters' budget and share
+### Commenters' budget and share
 
 The community decides of the shares every original commenter gets.
 
 At the same time or after the previous point, the community decides what is the share of each card in the cycle’s total.
 
 
-#### Taskers' budget
+### Taskers' budget
 
 At the same time or after the previous points, the community decides what should be the Taskers budget for the cycle. The influencing factors should be the related users’ budget and the other amount of work done in the cycle, including the Taskers’ work for the subprojects and discussions having their own budgets.
 
 
-#### Taskers' share
+### Taskers' share
 
 Taskers among themselves decide on their individual shares in the cycle’s budget.
 
 If they can’t decide, then they should ask the community to decide for them in a public discussion. No rewards will be provided for such a discussion as such a discussion fails to qualify to be an official discussion. If a community also can’t decide then the Tasker’s cycle budget will be added up to the cycle’s users budget.
 
 
-#### Rewards compiling
+### Rewards compiling
 
 A completed cycle list with all the individual shares is sent to the keeper of the Community Rewards Pool.
 
@@ -318,19 +316,19 @@ The format for the list is the following:
 After the keeper confirms the list is correct, Taskers move the cards from Done to Archived list.
 
 
-#### Usernames public addresses verification
+### Usernames public addresses verification
 
 The keeper checks if the usernames are connected with the Algorand addresses
 
 For the missing connections (implies no rewards have been sent yet to that user) an admin from the related channel will reach the user in DM asking for a public Algorand  address.
 
 
-#### Rewards sending
+### Rewards sending
 
 For the missing opt-ins, an admin from the related channel will reach the user in DM asking from them to opt-in for the ASA STats Token.
 
 
-## Other official discussions and subprojects
+# Other official discussions and subprojects
 
 Every official discussion or subproject upon finish will get a similar rewards related card under the "Done" list.
 
@@ -339,7 +337,7 @@ The same type of discussions like those for cycle's budgets should take place.
 A formatted list having the same format should be sent to the keeper.
 
 
-## No community rewards will be sent outside of the process
+# No community rewards will be sent outside of the process
 
 
 No community rewards will be sent outside of the process defined by this document.
