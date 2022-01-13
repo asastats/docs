@@ -44,6 +44,7 @@
 
 #### User settings
 
+- [ ] Preferred block explorer (AlgoExplorer, AlgoScan, )
 - [ ] Show values in a currency user selects
 - [ ] Hide ASA user selects
 - [ ] Hide ASA having value below specified amount in ALGO
