@@ -64,7 +64,7 @@ The other minimal conditions are as follows:
 
 # Other conditions for becoming a Tasker
 
-As of Tuesday 13, a member who is willing to become a Tasker should open a discussion about it and an existing Tasker or admin should conduct verification based on personal preferences.
+As of Thursday 13, a member who is willing to become a Tasker should open a discussion about it and an existing Tasker or admin (even distribution is suggested) should conduct a verification based on personal preferences. 
 
 
 # The Process
