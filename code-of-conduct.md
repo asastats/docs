@@ -43,7 +43,7 @@ Every person who can read and write in English is allowed to become an ASA Stats
 
 The other minimal conditions are as follows:
 
-* You have to read and understand the ASA Stats [Tasker code of conduct(https://github.com/asastats/docs/blob/main/code-of-conduct.md)
+* You have to read and understand the ASA Stats [Tasker code of conduct](https://github.com/asastats/docs/blob/main/code-of-conduct.md)
 
 * You have to read and comprehend the official ASA Stats documents:
 
