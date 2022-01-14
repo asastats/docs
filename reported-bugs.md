@@ -4,6 +4,8 @@
 
 ### MEDIUM PRIORITY BUGS
 
+- [ ] Algofi LP Tokens are not split up
+- [ ] Algofi payed off asset is showing up under "not evaluated"
 - [ ] Open bundle with comma, semicolon and underscore too. 
 - [ ] Invisible chart pie for wallet that does not have other ASA (assets); on mobile
 - [ ] Position cursor at the end of address upon bundle opening
@@ -14,10 +16,10 @@
 
 ### LOW PRIORITY BUGS
 
+- [ ] By tabbing through the links, URLs are not highlighted in the same manner other links are
 - [ ] Slogan is cut off along the bottom
 - [ ] Long ASA name text overlapping
 - [ ] Two addresses switch button bug; values displayed in Algo with USD switch on ( while transiting from a browser tab to the other, containing different wallet)
-- [ ] Lofty property has never been sold and a logger message is created
-- [ ] clicked social icons remain focused after reverting from other tab
+- [ ] Clicked social icons remain focused after reverting from other tab
 - [ ] iOS browsers links header amount as a telephone number
 - [ ] Yieldly staking pools are not sorted by value
