@@ -41,8 +41,6 @@
 - [ ] "Not evaluated" three columns all expanded after click
 - [ ] Project roadmap should be added in the homepage 
 - [ ] Real-time updating
-- [ ] Post API tiers options; in a bid to incentivize ASA stats services after API is fully implemented. 
-- [ ] List tokens that are not owned.
 
 ### DEPENDENT FEATURES
 
@@ -52,6 +50,10 @@
 - [ ] Show values in a currency user selects
 - [ ] Hide ASA user selects
 - [ ] Hide ASA having value below specified amount in ALGO
+
+#### Mockfolio
+
+- [ ] List tokens that are not owned
 
 #### Marketing
 
