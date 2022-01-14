@@ -211,6 +211,13 @@ The Tasker who has marked the comment with `:noted:` has to create a card in our
 
 The card should be created under the "Incoming" list in the related board. If the request is a priority bug report or update request, then the Tasker should label it that way (red/highest priority).
 
+----------------------- ------------------------------------
+**Labels**: Combine priority labels to create more levels: 
+                        use High + Yesterday for the highest priority or High + Medium
+                        for a level between High and Medium.
+                        
+----------------------------------------------------------------
+
 
 ### Issue rejection
 
