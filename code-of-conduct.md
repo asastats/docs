@@ -100,9 +100,8 @@ No rewards will be allocated for pointing on a comment with `:this:`.
 
 * Twitter
 
-    * A community member creates a retweet containing `:this:` and the original tweet
-    * Only the first/biggest retweet will be counted
-    * The `:this:` tweet's count of retweets and likes has to be at least 20 in order to qualify for processing
+    * A community member comments a tweet containing `:this:`
+    * In order for the original comment to qualify for processing, such a `:this:` comment should get at least 20 likes (only the comment with the highest number of likes will be counted)
 
 
 ## Tasker
