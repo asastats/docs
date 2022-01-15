@@ -301,14 +301,17 @@ If the budget allows and the need for additional members of the ASA Stats Team a
 Before the ASA Stats Kubernetes cluster is designed and all the project services are being containerized, task 22.1 will be powering the website. It is expected that the project by itself self-finances the Kubernetes cluster’s VPS needs greater than initial setup.
 
     a) Load balancer and VPS purchase for the pre-Kubernetes phase  
-    b) Indexer instance purchase  
-    c) VPS purchase for the Kubernetes cluster  
+    b) Development PC machine  
+A budget for a new PC computer in the office where all the development will take place should be secured. The existing hardware resources will be used as an additional working place in the office, for continuous integration and continuous delivery on the local network during the development phase, as well as for performing load testing on a daily basis against both the website and the Algorand network.
+
+    c) Indexer instance purchase  
+    d) VPS purchase for the Kubernetes cluster  
 For optimal performance and near 100% uptime, the ASA Stats project should be deployed to a Kubernetes cluster consisting of three control planes (primary and two backups) and at least five working nodes. The first phase of the Kubernetes cluster implies the purchase from the same provider.
 
-    d) Customer support and feature requests  
+    e) Customer support and feature requests  
 The customer support system from task 18.6 has to be maintained on a daily basis. All the inquiries have to be solved in the time defined by the system and all feature requests have to be forwarded to the developers for a statement.
 
-    e) Social media posts content writing  
+    f) Social media posts content writing  
 Based on the guidelines defined in task 20.1, the social media campaign from task 20.2 continues and the regularly published social media posts will keep the social media presence of the ASA Stats project. 
 
 23) Containerization and Kubernetes cluster creation  
@@ -326,7 +329,25 @@ All the deployments, services, and other configurations needed for deploying and
 24) DAO whitepaper  
 As defined in the ASA Stats whitepaper (see Appendix), the ASA Stats DAO whitepaper is one of the requirements for establishing the ASA Stats DAO. This request for funding doesn’t include other requirements specific to DAO.
 
-25) Open-sourcing the website  
+
+25) AI governor
+The ASA Stats Team members are not able to gain a governor seat in the ASA Stats DAO and the only way for them to be the governors is if they already have been selected as governors prior to joining the ASA Stats Team. Therefore research and development of an AI ASA Stats governor represents an ideal outcome for the Team member Ivica Paleka to stay with the project in a passionate way in the years after the first voting.
+
+   a) AI governor research
+Research has to be conducted about optimal approaches from a technical and philosophical perspective. 
+
+   b) AI governor application development  
+Based on the project documentation from the previous point, a repository and related code with the permissive open-source license will be created. 
+Deliverables
+
+   c) AI governor ASC development  
+Some of the requirements for the functioning of the AI governor imply the creation of the ASC and related transactions on the Mainnet. The research will be conducted prior to their development.
+Deliverables
+
+   d) Reports to the community
+Every quarter Ivica Paleka will be creating a report about the previous quarter and the plans for the future. All the problems of the development and acceptance of the AI governor will be presented in such reports.
+
+26) Open-sourcing the website  
 One of the requirements for establishing a DAO is the open-sourcing of all code used for running the website. After that requirement is fulfilled, and the ASA Stats DAO has been established, the ASA Stats Team will no longer have any official role in the project. Any team members' participation in the DAO development and organization processes will be decided upon through DAO governance. This task represents the final task for the ASA Stats Team.
 
     a) Creating CI/CD pipeline for the website  
