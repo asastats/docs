@@ -100,8 +100,8 @@ No rewards will be allocated for pointing on a comment with `:this:`.
 
 * Twitter
 
-    * A community member comments a tweet containing `:this:`
-    * In order for the original comment to qualify for processing, such a `:this:` comment should get at least 20 likes (only the comment with the highest number of likes will be counted)
+    * A community member comments a tweet with `:this:`
+    * In order for the original tweet to qualify for processing, such `:this:` comment should get at least 20 likes (only the comment with the highest number of likes will be counted)
 
 
 ## Tasker
