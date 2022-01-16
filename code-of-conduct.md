@@ -89,7 +89,7 @@ No rewards will be allocated for pointing on a comment with `:this:`.
 
 * Discord
 
-    * Community members marks the comment with :this: emoji
+    * Community members mark the comment with :this: emoji
     * The comment's count of :this: emoji has to be at least 5 in order to qualify for processing
 
 * Reddit
