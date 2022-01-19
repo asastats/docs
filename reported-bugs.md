@@ -1,5 +1,6 @@
 ### HIGH PRIORITY BUGS
 
+- [ ] Update Freckle VIP-Freckle Tinyman pool data
 - [ ] Fourth or fifth wallet address in bundle going off screen on mobile  
 
 ### MEDIUM PRIORITY BUGS
