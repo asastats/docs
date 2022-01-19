@@ -1,5 +1,6 @@
 ### HIGH PRIORITY BUGS
 
+- [ ] Tinyman 1.1 liquidity amounts are not shown
 - [ ] Update Freckle VIP-Freckle Tinyman pool data
 - [ ] Fourth or fifth wallet address in bundle going off screen on mobile  
 
