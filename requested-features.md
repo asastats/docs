@@ -66,3 +66,4 @@
 - [ ] US tax support
 - [ ] Average APY for staking
 - [ ] Borrowed values reversely calculated 
+- [ ] Add chart directly in the token section
