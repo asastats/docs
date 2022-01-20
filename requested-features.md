@@ -6,6 +6,7 @@
 
 ### MEDIUM PRIORITY FEATURES
 
+- [ ] Having tokens differentiated as verified, semi-verified and yet-to-be-verified
 - [ ] AMM liquidity pool total amount/value
 - [ ] AlgoFi staking LP tokens
 - [ ] Yieldly staking LP tokens
