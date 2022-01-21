@@ -1,5 +1,6 @@
 ### HIGH PRIORITY BUGS
 
+- [ ] Algofi LP Tokens are placed in Not evaluated and not split up
 - [ ] Algofi staked amounts sometimes are not shown correctly
 - [ ] Update Freckle VIP-Freckle Tinyman pool data
 - [ ] Fourth or fifth wallet address in bundle going off screen on mobile  
@@ -10,7 +11,6 @@
 
 ### MEDIUM PRIORITY BUGS
 
-- [ ] Algofi LP Tokens are not split up
 - [ ] Algofi payed off asset is showing up under "not evaluated"
 - [ ] Open bundle with comma, semicolon and underscore too. 
 - [ ] Invisible chart pie for wallet that does not have other ASA (assets); on mobile
