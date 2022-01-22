@@ -6,8 +6,8 @@
 
 #### Resolved
 
-<sub>- [x] Algofi LP Tokens are placed in Not evaluated and not split up</sub>
-<sub>- [x] Tinyman 1.1 liquidity amounts are not shown</sub>
+- <sub>[x] Algofi LP Tokens are placed in Not evaluated and not split up</sub>
+- <sub>[x] Tinyman 1.1 liquidity amounts are not shown</sub>
 
 ### MEDIUM PRIORITY BUGS
 
