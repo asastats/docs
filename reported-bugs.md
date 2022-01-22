@@ -1,12 +1,12 @@
 ### HIGH PRIORITY BUGS
 
-- [ ] Algofi LP Tokens are placed in Not evaluated and not split up
 - [ ] Algofi staked amounts sometimes are not shown correctly
 - [ ] Update Freckle VIP-Freckle Tinyman pool data
 - [ ] Fourth or fifth wallet address in bundle going off screen on mobile  
 
 #### Resolved
 
+- [x] Algofi LP Tokens are placed in Not evaluated and not split up
 - [x] Tinyman 1.1 liquidity amounts are not shown
 
 ### MEDIUM PRIORITY BUGS
