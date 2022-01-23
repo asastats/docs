@@ -6,7 +6,8 @@
 
 ### MEDIUM PRIORITY FEATURES
 
-- [ ] AlgoNameService & NFD support
+- [ ] Display ASA balance in native token, not only Algo
+- [ ] Add support for resolving named wallets (AlgoNameService & NFD support)
 - [ ] Having tokens differentiated as verified, semi-verified and yet-to-be-verified
 - [ ] AMM liquidity pool total amount/value
 - [ ] AlgoFi staking LP tokens
@@ -23,6 +24,7 @@
 - [ ] Every asset row should show how much it covers or represents from whole portfolio; like the pie chart does.
 - [ ] Filtering and searching ASA in case of very many assets; incorporate a sort/filter/search function, or paging.
 - [ ] Functionality that matches NFT - token pairs (like Algo Curator)
+- [ ] A warning icon next to ALGO/ASA value in Tinyman swap subsection if the price impact is high
 
 ### LOW PRIORITY FEATURES 
 
