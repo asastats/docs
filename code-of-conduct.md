@@ -206,7 +206,7 @@ Marking a comment with `:na:` creates an obligation for the Tasker to further ex
 
 ### Issue creation
 
-The Tasker who has marked the comment with `:noted:` has to create a card in our Issue Tracker and assigns him/herself to the card afterward.
+The Tasker who has marked the comment with `:noted:` has to create a card in our Issue Tracker~~ and assigns him/herself to the card afterward~~.
 
 The card should be created under the "Incoming" list in the related board. If the request is a priority bug report or update request, then the Tasker should label it that way (red/highest priority).
 
