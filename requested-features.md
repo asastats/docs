@@ -6,12 +6,13 @@
 
 ### MEDIUM PRIORITY FEATURES
 
+- [ ] LP tokens in Yieldly are not show as "in Yiedly"
 - [ ] Display ASA balance in native token, not only Algo
 - [ ] Add support for resolving named wallets (AlgoNameService & NFD support)
 - [ ] Having tokens differentiated as verified, semi-verified and yet-to-be-verified
 - [ ] AMM liquidity pool total amount/value
-- [ ] AlgoFi staking LP tokens
-- [ ] Yieldly staking LP tokens
+- [x] AlgoFi staking LP tokens
+- [x] Yieldly staking LP tokens
 - [ ] Allowing multiple sections of the accordion to be expanded at the same time
 - [ ] Show locked ALGO (like opt-in 0.1) in square brackets
 - [ ] Pool share in percentage
