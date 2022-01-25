@@ -258,7 +258,7 @@ Infrastructure and various A/B tests should be prepared before the ASA Stats ope
 Basic security and load tests should be performed on the running Kubernetes cluster.
 
     c) UX testing  
-Together with the feedback from the beta testers, A/B tests from task 19.1 will also be conducted for the beta testing phase.
+Together with the feedback from the beta testers, A/B tests from task 19.a will also be conducted for the beta testing phase.
 
 
 20) Marketing  
