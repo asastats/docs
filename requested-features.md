@@ -72,3 +72,7 @@
 - [ ] Average APY for staking
 - [ ] Borrowed values reversely calculated 
 - [ ] Add chart directly in the token section
+
+#### QA testing (after testing infrastructure is deployed - [Roadmap 19.](https://github.com/asastats/docs/blob/main/roadmap.md))
+
+- [ ] Use links as subsection headings in accordion
