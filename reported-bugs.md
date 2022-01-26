@@ -22,6 +22,7 @@
 
 ### LOW PRIORITY BUGS
 
+- [ ] Tinyman liquidity pool escrow address shows irrational values
 - [ ] By tabbing through the links, URLs are not highlighted in the same manner other links are
 - [ ] Slogan is cut off along the bottom
 - [ ] Long ASA name text overlapping
