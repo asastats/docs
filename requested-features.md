@@ -1,9 +1,9 @@
 ### HIGH PRIORITY FEATURES
 
-- [ ] Add support for the upcoming XET/YLDY LP staking pool in Yieldly
 - [ ] Showing Choice coin governance votes committed by individual users
 - [ ] USD on hover; allowing for users to see USD values of assets in the various asset table by placing the cursor over the icon without clicking
 - [ ] Redirect with error message on deleted cache; bookmarked hash address redirecting to error page
+- [x] Add support for the upcoming XET/YLDY LP staking pool in Yieldly
 
 ### MEDIUM PRIORITY FEATURES
 
