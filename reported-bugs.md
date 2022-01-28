@@ -1,5 +1,6 @@
 ### HIGH PRIORITY BUGS
 
+- [ ] Pie shows grey/others label behind the pie (visual bug), after a 14 assets have been passed
 - [ ] Algofi staked amounts sometimes are not shown correctly
 - [ ] Update Freckle VIP-Freckle Tinyman pool data
 - [ ] Fourth or fifth wallet address in bundle going off screen on mobile  
