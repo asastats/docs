@@ -12,8 +12,6 @@
 - [ ] Add support for resolving named wallets (AlgoNameService & NFD support)
 - [ ] Having tokens differentiated as verified, semi-verified and yet-to-be-verified
 - [ ] AMM liquidity pool total amount/value
-- [x] AlgoFi staking LP tokens
-- [x] Yieldly staking LP tokens
 - [ ] Allowing multiple sections of the accordion to be expanded at the same time
 - [ ] Show locked ALGO (like opt-in 0.1) in square brackets
 - [ ] Pool share in percentage
@@ -27,6 +25,8 @@
 - [ ] Filtering and searching ASA in case of very many assets; incorporate a sort/filter/search function, or paging.
 - [ ] Functionality that matches NFT - token pairs (like Algo Curator)
 - [ ] A warning icon next to ALGO/ASA value in Tinyman swap subsection if the price impact is high
+- [x] AlgoFi staking LP tokens
+- [x] Yieldly staking LP tokens
 
 ### LOW PRIORITY FEATURES 
 
