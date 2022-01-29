@@ -7,6 +7,7 @@
 
 ### MEDIUM PRIORITY FEATURES
 
+- [ ] Add warning message only to affected users if applicable
 - [ ] LP tokens in Yieldly are not show as "in Yiedly"
 - [ ] Display ASA balance in native token, not only Algo
 - [ ] Add support for resolving named wallets (AlgoNameService & NFD support)
