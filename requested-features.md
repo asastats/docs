@@ -7,6 +7,7 @@
 
 ### MEDIUM PRIORITY FEATURES
 
+- [ ] Reduce font/Shorten address by adding ...
 - [ ] Add warning message only to affected users if applicable
 - [ ] LP tokens in Yieldly are not show as "in Yiedly"
 - [ ] Display ASA balance in native token, not only Algo
@@ -31,7 +32,6 @@
 
 ### LOW PRIORITY FEATURES 
 
-- [ ] Reduce font/Shorten address by adding ...
 - [ ] Update Dark/Light icon to moon and crescent
 - [ ] NFT Grocery store market link
 - [ ] Scam/rug pulled tokens warning in the address page
