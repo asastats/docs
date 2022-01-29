@@ -31,6 +31,7 @@
 
 ### LOW PRIORITY FEATURES 
 
+- [ ] Update Dark/Light icon to moon and crescent
 - [ ] NFT Grocery store market link
 - [ ] Scam/rug pulled tokens warning in the address page
 - [ ] Share address page without exposing actual addresses
