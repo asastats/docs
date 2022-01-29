@@ -81,3 +81,7 @@
 - [ ] Use links as subsection headings in accordion
 - [ ] Display mini asset icons in accordion view of LP pool pairings
 - [ ] Change ALGO/USD to logo/Symbol
+
+#### Community tasks
+
+- [ ] Add anchors to the asastats.com FAQ after it is updated
