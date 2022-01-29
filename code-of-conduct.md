@@ -210,7 +210,7 @@ The Tasker who has marked the comment with `:noted:` has to create a card in our
 
 The card should be created under the "Incoming" list in the related board. If the request is a priority bug report or update request, then the Tasker should label it that way (red/highest priority).
 
-Tasker should add a link to original/first comment with the request and quote either all the comment's text or its relevant parts.
+Tasker should add a link to the original/first comment with the request and quote either all the comment's text or its relevant parts.
 
 Example:  
 https://discord.com/channels/906917846754418770/908054304332603402/912101526581940334
