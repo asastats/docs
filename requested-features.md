@@ -83,6 +83,7 @@
 - [ ] Use links as subsection headings in accordion
 - [ ] Display mini asset icons in accordion view of LP pool pairings
 - [ ] Change ALGO/USD to logo/Symbol
+- [ ] Move ALGO/USD to more prominent spot
 - [ ] Make toggle always on top while scrolling down
 
 #### Community tasks
