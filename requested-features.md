@@ -59,6 +59,7 @@
 - [ ] Hide ASA user selects
 - [ ] Hide ASA having value below specified amount in ALGO
 - [ ] Provide link(s) for opt-out from ASA and dApps
+- [ ] Algo/USD price should be displayed together without using toggle
 
 #### Mockfolio
 
