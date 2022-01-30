@@ -63,14 +63,14 @@ While online representing ASA Stats, Taskers should actively monitor the channel
 
 ## Community member reactions and notation
 
-### Community members’ :this:
+### Community members’ `:this:`
 Community members mark a comment with `:this:` when they want to show support for a request they wish to be processed by the Taskers and the team.  Comments with higher volumes of `:this:` should be interpreted as a higher priority.  No rewards will be allocated for adding `:this:` to a request or comment.  If the comment is already `:noted:` by a Tasker then `:this:` becomes optional, but may still be utilized to emphasize agreement or accentuate priority.
 
-#### Platform-specific instructions for :this:
+#### Platform-specific instructions for `:this:`
 
 * Discord
 
-    * Community members mark a comment with the :this: emoji
+    * Community members mark a comment with the `:this:` emoji
     * If a comment's count of `:this:` emoji reaches 5, it should be interpreted by a Tasker as a signal for immediate processing.
 
 * Reddit
@@ -88,10 +88,10 @@ Community members mark a comment with `:this:` when they want to show support fo
 ## Tasker’s reactions and notation
 A Tasker’s reaction to a member’s request should adhere to the order of operations specified in the following sections.
 
-### Taskers’ :skip: notation
+### Taskers’ `:skip:` notation
 A Tasker should always `:skip:` a comment when they don't understand its meaning, or when they feel there are Taskers with a better understanding of the topic.
 
-#### Platform-specific instructions for :skip:
+#### Platform-specific instructions for `:skip:`
 
 On Reddit and Twitter, a `:skip:` is implied by simply not commenting; there is no need for making a `:skip:` comment on these two platforms.
 
@@ -99,12 +99,12 @@ On Reddit and Twitter, a `:skip:` is implied by simply not commenting; there is 
 
     * Community members mark a comment with the `:skip:` emoji
 
-### Tasker’s :exists: notation
+### Tasker’s `:exists:` notation
 A Tasker should mark a comment with `:exists:` when they are **certain** that the same/similar request has already been issued or if requested functionality is already implemented on the website.
 
 The same Tasker (or any other community member) is encouraged to provide further explanation.
 
-#### Platform-specific instructions for :exists:
+#### Platform-specific instructions for `:exists:`
 * Discord
      * A Tasker marks the comment with the `:exists:` emoji.
      * A further explanation can be added as a reply to the original comment.
@@ -119,12 +119,12 @@ The same Tasker (or any other community member) is encouraged to provide further
      * A further explanation can be added in the same tweet next to the starting `:exists:` followed by a space.
      * The other community members can retweet and/or like the `:exists:` tweet if they want.
 
-### Taskers’ :noted: notation
+### Taskers’ `:noted:` notation
 A Tasker should mark a comment with `:noted:` when they **comprehend** what has been asked for and are able to abstract the request into a single title sentence.
 
 Marking a comment with `:noted:` signifies an obligation for the Tasker to create a card in the ASA Stats Issue Tracker under the "Incoming" list in the related board.  Please see the “Issue creation in Trello” section below for more details.
 
-#### Platform-specific instructions for :noted:
+#### Platform-specific instructions for `:noted:`
 * Discord
      * a Tasker marks the comment with `:noted:` emoji
 * Reddit
@@ -133,12 +133,12 @@ Marking a comment with `:noted:` signifies an obligation for the Tasker to creat
 * Twitter
      * a Tasker creates a retweet containing `:noted:` - which should also contain the original tweet.
 
-### Taskers’ :na: notation
+### Taskers’ `:na:` notation
 A Tasker marks a comment with `:na:` (*not applicable*) when they are sure that the request won't be implemented in ASA Stats.
 
 Marking a comment with `:na:` creates an obligation for the Tasker to further explain the Tasker's/ASA Stats' reasoning for that to the commenter.
 
-#### Platform-specific instructions for :na:
+#### Platform-specific instructions for `:na:`
 * Discord
      * A Tasker marks the comment with `:na:` emoji. 
      * The Tasker replies to the original comment with a further explanation.
