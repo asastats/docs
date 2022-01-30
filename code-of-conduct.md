@@ -151,11 +151,16 @@ Marking a comment with `:na:` creates an obligation for the Tasker to further ex
      * A further explanation can be added in the same tweet next to the starting `:na:` followed by a space.
 
 ### Examples of tasker notations on different platforms
-* Discord: use the actual emojis available
 
-* Reddit: spell out the reaction 
+* Discord: use the actual emojis available<br/>
+![Discord emojis](https://github.com/asastats/docs/blob/main/img/discord-emoji.png)
 
-* Twitter: spell out the reaction
+* Reddit: use the backticks around the notation<br/>
+![Reddit code](https://github.com/asastats/docs/blob/main/img/reddit.png)
+
+* Twitter: spell out the reaction<br/>
+![Twitter text](https://github.com/asastats/docs/blob/main/img/twitter.png)
+
 
 ## Issue handling
 ASA Stats uses Trello for issue tracking, which is then automatically synced to GitHub to allow for community viewing.  The following section aims to outline the workflow required for a Tasker to handle and queue community requests for the development team to process.
