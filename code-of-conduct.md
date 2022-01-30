@@ -66,7 +66,7 @@ While online representing ASA Stats, Taskers should actively monitor the channel
 ### Community members’ :this:
 Community members mark a comment with `:this:` when they want to show support for a request they wish to be processed by the Taskers and the team.  Comments with higher volumes of `:this:` should be interpreted as a higher priority.  No rewards will be allocated for adding `:this:` to a request or comment.  If the comment is already `:noted:` by a Tasker then `:this:` becomes optional, but may still be utilized to emphasize agreement or accentuate priority.
 
-### Platform-specific instructions for :this:
+#### Platform-specific instructions for :this:
 
 * Discord
 
@@ -91,10 +91,13 @@ A Tasker’s reaction to a member’s request should adhere to the order of oper
 ### Taskers’ :skip: notation
 A Tasker should always `:skip:` a comment when they don't understand its meaning, or when they feel there are Taskers with a better understanding of the topic.
 
+#### Platform-specific instructions for :skip:
+
 On Reddit and Twitter, a `:skip:` is implied by simply not commenting; there is no need for making a `:skip:` comment on these two platforms.
 
-#### Discord-specific instructions for :skip:
-On Discord, a Tasker should mark a comment with the `:skip:` emoji.
+* Discord
+
+    * Community members mark a comment with the `:skip:` emoji
 
 ### Tasker’s :exists: notation
 A Tasker should mark a comment with `:exists:` when they are **certain** that the same/similar request has already been issued or if requested functionality is already implemented on the website.
