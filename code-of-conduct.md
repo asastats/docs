@@ -1,5 +1,5 @@
 # ASA Stats Tasker code of conduct
-Draft v2.0.0 - January 29th, 2022
+Draft v2.0.1 - January 29th, 2022
 
 Use [the official discussion thread](https://www.reddit.com/r/asastats/comments/rtprj8/asa_stats_tasker_code_of_conduct_discussion/) and [Google Docs document](https://docs.google.com/document/d/1fdvNnKWoHgu9VySbUecIERwVdDCzaFLMZlWZhcLG-xk/edit?usp=sharing) for the update suggestions.
 
@@ -30,7 +30,7 @@ The other minimal conditions are as follows:
     * [ASA Stats Whitepaper](https://www.asastats.com/whitepaper.pdf)
     * [Open letter to the ASA Stats governors](https://github.com/asastats/dao-discussion/discussions/1)
     * [Governor Seats Update 2021-12-12](https://github.com/asastats/dao-discussion/discussions/6)
-    * ASA Stats transparency reports ([2021-11](https://www.asastats.com/transparency-report-2021-11.pdf))
+    * ASA Stats transparency reports ([2021-11](https://www.asastats.com/transparency-report-2021-11.pdf) [2021-12](https://www.asastats.com/transparency-report-2021-11.pdf))
 
 * You have to comply with the [ASA Stats Anti-shill Philosophy](https://docs.google.com/document/d/1qMckU1qpcn78uoaIin6gbxYF8vB81DEHfRs9q0uOGa0)
 
