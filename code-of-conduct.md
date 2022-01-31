@@ -1,5 +1,5 @@
 # ASA Stats Tasker code of conduct
-Draft v2.0.1 - January 29th, 2022
+Draft v2.0.2 - January 29th, 2022
 
 Use [the official discussion thread](https://www.reddit.com/r/asastats/comments/rtprj8/asa_stats_tasker_code_of_conduct_discussion/) and [Google Docs document](https://docs.google.com/document/d/1fdvNnKWoHgu9VySbUecIERwVdDCzaFLMZlWZhcLG-xk/edit?usp=sharing) for the update suggestions.
 
@@ -306,7 +306,7 @@ The following members of the community will verify the first batch of Tasker app
 * Babbexx22: <open>
 * bear1bear2bear3: <open>
 * Damo: PonziCream
-* rach: jsmithlvdame
+* rach: 
 
 After the first batch of applicants is verified/rejected by these 6 members, then we should arrange the time zones and other things for future applicants.
 
