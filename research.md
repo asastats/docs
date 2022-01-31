@@ -18,6 +18,7 @@
 - [ ] EXA Finance
 - [ ] Ally Protocol
 - [ ] Algophase
+- [ ] AlgoWorld.io
 
 ### CONDUCTED INITIAL RESEARCH
 
