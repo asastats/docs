@@ -3,6 +3,9 @@
 - [ ] AlgoDEX
 - [ ] ANS
 - [ ] pact.fi
+- [ ] aorist.art
+- [ ] AlgoWorld.io
+- [ ] Octorand
 - [ ] Choice coin governance
 - [ ] Algoverse DEX and related products
 - [ ] ToolsX LP token locker
@@ -18,7 +21,6 @@
 - [ ] EXA Finance
 - [ ] Ally Protocol
 - [ ] Algophase
-- [ ] AlgoWorld.io
 
 ### CONDUCTED INITIAL RESEARCH
 
