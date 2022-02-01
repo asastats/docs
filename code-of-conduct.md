@@ -307,7 +307,8 @@ The following members of the community will verify the first batch of Tasker app
 * bear1bear2bear3: <open>
 * Damo: PonziCream
 * rach: 
-
+* ipaleka: Marvingale 
+   
 After the first batch of applicants is verified/rejected by these 6 members, then we should arrange the time zones and other things for future applicants.
 
 For applicants: if these 6 don't pick you in the following two or three days for verification then you'll get another chance the next week. If you spam those 6 in DM you'll be disqualified.
