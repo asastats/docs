@@ -7,6 +7,7 @@
 
 ### MEDIUM PRIORITY FEATURES
 
+- [ ] Use % from algostake and display staking rewards
 - [ ] Reduce font/Shorten address by adding ...
 - [ ] Add warning message only to affected users if applicable
 - [ ] LP tokens in Yieldly are not show as "in Yiedly"
