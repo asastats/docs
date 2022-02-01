@@ -1,5 +1,6 @@
 ### HIGH PRIORITY BUGS
 
+- [ ] Modifying the description of ASA Stats in the meta tag of the website
 - [ ] Pie shows grey/others label behind the pie (visual bug), after a 14 assets have been passed
 - [ ] Algofi staked amounts sometimes are not shown correctly
 - [ ] Update Freckle VIP-Freckle Tinyman pool data
