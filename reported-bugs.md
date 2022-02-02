@@ -10,6 +10,7 @@
 
 - [x] <sub>Algofi LP Tokens are placed in Not evaluated and not split up</sub>
 - [x] <sub>Tinyman 1.1 liquidity amounts are not shown</sub>
+- [x] <sub>smile coin balance (staked) on Asastats is doubled</sub>
 
 ### MEDIUM PRIORITY BUGS
 
