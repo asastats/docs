@@ -170,7 +170,7 @@ The Tasker who has marked a comment with `:noted:` must also create a new card i
 
 Each card should be created under the "Incoming" list in either the “Bug Reports” or “Feature Requests” Trello boards.  Bug Reports should be used to track reports of defects, while the Feature Requests board should be used for all other feature requests, enhancements, or improvements.   If the request is a priority bug report or feature request, then the Tasker should label it that way (red/highest priority).
 
-A Tasker should add a link to the original/first comment in the request, and quote (using `> `  in front of the text) either all the comment's text or its relevant parts.
+A Tasker should add a link to the original/first comment in the request, and quote (using `> ` in front of the text) either all the comment's text or its relevant parts.
 
 Example:  
 https://discord.com/channels/906917846754418770/908054304332603402/912101526581940334
