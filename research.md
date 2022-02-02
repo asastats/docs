@@ -10,7 +10,6 @@
 - [ ] Algoverse DEX and related products
 - [ ] ToolsX LP token locker
 - [ ] Fairmeme Locker
-- [ ] Algofi DEX
 - [ ] CyberDex 
 - [ ] Algopulse
 - [ ] Zone
@@ -32,6 +31,7 @@
 
 ### FINISHED RESEARCH
 
+- [x] Algofi DEX
 - [x] Tinylock
 - [x] ab2.gallery
 - [x] abris.io
