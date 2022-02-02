@@ -9,7 +9,6 @@
 - [ ] Choice coin governance
 - [ ] Algoverse DEX and related products
 - [ ] ToolsX LP token locker
-- [ ] Fairmeme Locker
 - [ ] CyberDex 
 - [ ] Algopulse
 - [ ] Zone
@@ -31,6 +30,7 @@
 
 ### FINISHED RESEARCH
 
+- [x] Fairmeme Locker
 - [x] Algofi DEX
 - [x] Tinylock
 - [x] ab2.gallery
