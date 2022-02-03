@@ -19,6 +19,9 @@
 - [ ] EXA Finance
 - [ ] Ally Protocol
 - [ ] Algophase
+- [ ] [INITIAL] asalp.io
+- [ ] [FINAL] folks.finance
+- [ ] [FINAL] WAGMIswap
 
 ### CONDUCTED INITIAL RESEARCH
 
