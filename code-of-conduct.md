@@ -1,5 +1,5 @@
 # ASA Stats Tasker code of conduct
-Draft v2.0.2 - January 29th, 2022
+Draft v2.0.5 - February 8th, 2022
 
 Use [the official discussion thread](https://www.reddit.com/r/asastats/comments/rtprj8/asa_stats_tasker_code_of_conduct_discussion/) and [Google Docs document](https://docs.google.com/document/d/1fdvNnKWoHgu9VySbUecIERwVdDCzaFLMZlWZhcLG-xk/edit?usp=sharing) for the update suggestions.
 
@@ -75,7 +75,9 @@ Community members mark a comment with `:this:` when they want to show support fo
 
 * Reddit
 
-    * A community member creates a singleton reply comment containing only `:this:`.  
+    * A community member creates a singleton reply comment containing only `:this:`.
+        * **Fancy Pants** Editor: enter :this: by adding the command name in between two colons, then highlight it with your mouse, and click the <c> to trigger inline code. You will see the text become blue with a gray highlight.
+        * **Markdown Mode**: enter `:this:` by adding the command name in between two colons and two backticks like `:command:`.
     * Official marks like `:this:` are added by enclosing the command name by two colons and two backticks **\`:command:\`**.
     * Any other identical comments should be deleted by the commenters or admins.
     * If the `:this:` comment's count of upvotes reaches 10, it should be interpreted by a Tasker as a signal for immediate processing.
@@ -100,7 +102,7 @@ On Reddit and Twitter, a `:skip:` is implied by simply not commenting; there is 
     * Community members mark a comment with the `:skip:` emoji
 
 ### Tasker’s `:exists:` notation
-A Tasker should mark a comment with `:exists:` when they are **certain** that the same/similar request has already been issued or if requested functionality is already implemented on the website.
+A Tasker should mark a comment with `:exists:` when they are **certain** that the same/similar request has already been issued (which can also be confirmed via Trello’s search field), or if requested functionality is already implemented on the website.
 
 The same Tasker (or any other community member) is encouraged to provide further explanation.
 
@@ -111,6 +113,8 @@ The same Tasker (or any other community member) is encouraged to provide further
      * Other community members can confirm the mark if they want.
 * Reddit
      * A Tasker creates a singleton reply comment containing only `:exists:`.
+         * **Fancy Pants Editor**: enter :exists: by adding the command name in between two colons, then highlight it with your mouse, and click the <c> to trigger inline code. You will see the text become blue with a gray highlight.
+         * **Markdown Mode**: enter `:exists:` by adding the command name in between two colons and two backticks like \`:command:\`.
      * The other identical comments should be deleted by the commenters or admins.
      * A further explanation can be added in the same comment next to the starting `:exists:` followed by a space.
      * The other community members can upvote the `:exists:` comment if they want.
@@ -129,6 +133,8 @@ Marking a comment with `:noted:` signifies an obligation for the Tasker to creat
      * a Tasker marks the comment with `:noted:` emoji
 * Reddit
      * A Tasker creates a singleton reply comment containing only `:noted:`
+         * **Fancy Pants Editor**: enter :noted: by adding the command name in between two colons, then highlight it with your mouse, and click the <c> to trigger inline code.  You will see the text become blue with a gray highlight.
+         * **Markdown Mode**: enter `:noted:` by adding the command name in between two colons and two backticks like \`:command:\`.
      * The other identical comments should be deleted by the commenters or admins
 * Twitter
      * a Tasker creates a retweet containing `:noted:` - which should also contain the original tweet.
@@ -144,6 +150,8 @@ Marking a comment with `:na:` creates an obligation for the Tasker to further ex
      * The Tasker replies to the original comment with a further explanation.
 * Reddit
      * A Tasker creates a singleton reply comment containing only `:na:`.
+         * **Fancy Pants Editor**: enter :na: by adding the command name in between two colons, then highlight it with your mouse, and click the <c> to trigger inline code.  You will see the text become blue with a gray highlight.
+         * **Markdown Mode**: enter `:na:` by adding the command name in between two colons and two backticks like \`:command:\`.
      * The other identical comments should be deleted by the commenters or admins.
      * A further explanation should be added in the same comment next to the starting `:na:` followed by a space.
 * Twitter
@@ -161,12 +169,13 @@ Marking a comment with `:na:` creates an obligation for the Tasker to further ex
 * Twitter: spell out the reaction<br/>
 ![Twitter text](https://github.com/asastats/docs/blob/main/img/twitter.png)
 
-
 ## Issue handling
 ASA Stats uses Trello for issue tracking, which is then automatically synced to GitHub to allow for community viewing.  The following section aims to outline the workflow required for a Tasker to handle and queue community requests for the development team to process.
 
 ### Issue creation
 The Tasker who has marked a comment with `:noted:` must also create a new card in our Trello issue tracking software.
+
+As an initial step just prior to issue creation, a Tasker needs to first use Trello’s search field (located in the upper right-hand portion of the browser), combined with a few keywords from the request, to double-check that a related card does not already exist on one of the boards.
 
 Each card should be created under the "Incoming" list in either the “Bug Reports” or “Feature Requests” Trello boards.  Bug Reports should be used to track reports of defects, while the Feature Requests board should be used for all other feature requests, enhancements, or improvements.   If the request is a priority bug report or feature request, then the Tasker should label it that way (red/highest priority).
 
@@ -185,11 +194,15 @@ A related official in this context represents a member of the ASA Stats Team, a 
 The "Backlog (dependent)" list is used when a request depends on some other functionality or effort the ASA Stats hasn’t implemented yet.
 
 #### Tasks board
-Along-side the two community-based request boards, there also exists an internal “Tasks” Trello board that should be monitored by Taskers.
+Along with the two community-based request boards, Taskers should also monitor the internal Trello “Tasks” board.
 
-In the case of the “Tasks” board, Taskers may handle various tasks from both the “Incoming” and “Backlog” lists, assuming they understand and are capable of handling the requirements to fulfill the task listed in the summary.
+Taskers may handle various tasks from both the “Incoming” and “Backlog” lists from the Tasks board, assuming they understand their meaning and are capable of fulfilling the requirements listed in the summary.
 
-If a Tasker feels they understand what is needed to get the task underway, they should assign their name to the card, move the card into the “In Progress” list, and then open a public discussion in an appropriate related ASA Stats community channel.
+If a Tasker feels they understand what is needed to get the task underway, they should assign their name to the card, and move the card into the “In Progress” list.
+
+Some Tasks cards may be straight forward enough for a Tasker to complete on their own with no participation of others (ex: cases where no original content is needed).
+
+Tasks that require generation of original content, or other feedback from the community, should be presented to the community as a discussion.  For cards that require some clarification or planning with team members, a Tasker should use the #tasker-discussion channel for this purpose prior to opening a more formal active participation discussion in an ASA Stats community channel.
 
 ### Issue rejection
 #### Already exists
@@ -217,6 +230,8 @@ A Tasker should then mark the original comment with `:addressed:` and move the c
      * The Tasker may reply to the original comment with a further explanation.
 * Reddit
      * The Tasker creates a singleton reply comment containing only `:addressed:`
+         * **Fancy Pants Editor**: enter :addressed: by adding the command name in between two colons, then highlight it with your mouse, and click the <c> to trigger inline code.  You will see the text become blue with a gray highlight.
+         * **Markdown Mode**: enter `:addressed:` by adding the command name in between two colons and two backticks like \`:command:\`.
      * A further explanation may be added in the same comment next to the starting `:addressed:` followed by a space.
 * Twitter
      * The Tasker creates a retweet containing `:addressed:` and the original tweet.
@@ -306,7 +321,7 @@ The following members of the community will verify the first batch of Tasker app
 * Babbexx22: <open>
 * bear1bear2bear3: <open>
 * Damo: PonziCream
-* rach: 
+* rach: <open>
 * ipaleka: Marvingale 
    
 After the first batch of applicants is verified/rejected by these 6 members, then we should arrange the time zones and other things for future applicants.
@@ -318,10 +333,10 @@ For applicants: if these 6 don't pick you in the following two or three days for
 | -------------- | ---------------- | ------------- | --------------- |
 | bear1bear2bear3| u/bear1bear2bear3| GMT+1         | Discord         |
 | Babbexx22      | u/Babbexx22      | GMT+1         | Discord         |
-| SammySpeed     | u/Sammyspeed     | GMT+1         |                 |
+| SammySpeed     | u/Sammyspeed     | GMT+1         | Discord         |
 | AlgoRhythMatic | u/AlgoRhythMatic | GMT-8         | Reddit          |
-| MGHQ_YT        |                  |               |                 |
-| Lario          |                  |               |                 |   
+| MGHQ_YT        | u/MGHQ_YTR       | GMT-5         | Discord         |
+| Lario          | u/Larrieman133   | GMT+1         | Discord         |   
    
 # Document version control
 This document’s versioning uses the format: v.<major>.<minor>.<update>.  The “update” version should iterate any time a change occurs that amounts to more than a simple grammatical or typographic correction.  A “minor” iteration should occur when there are a sufficient amount of “updates” that require a re-sync between Google docs and GitHub.  “Major” changes should be very infrequent, and indicate a significant restructuring of the document.  Upon each iteration of “major” or “minor”, the lower version numbers should be reset to 0.  Upon any version updates, the user should also iterate to the current date.
