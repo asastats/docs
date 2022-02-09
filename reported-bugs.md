@@ -5,6 +5,7 @@
 - [ ] Algofi staked amounts sometimes are not shown correctly
 - [ ] Update Freckle VIP-Freckle Tinyman pool data
 - [ ] Fourth or fifth wallet address in bundle going off screen on mobile  
+- [ ] Stale data from AlgoFi still displayed after >1 hr
 
 #### Resolved
 
