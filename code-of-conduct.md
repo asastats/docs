@@ -1,5 +1,5 @@
 # ASA Stats Tasker code of conduct
-Draft v2.0.5 - February 8th, 2022
+Draft v2.0.6 - February 11th, 2022
 
 Use [the official discussion thread](https://www.reddit.com/r/asastats/comments/rtprj8/asa_stats_tasker_code_of_conduct_discussion/) and [Google Docs document](https://docs.google.com/document/d/1fdvNnKWoHgu9VySbUecIERwVdDCzaFLMZlWZhcLG-xk/edit?usp=sharing) for the update suggestions.
 
