@@ -319,10 +319,9 @@ At the end of the trial phase, a committee of existing Taskers will conduct a ye
 The following members of the community will verify the first batch of Tasker applicants, one at a time:
 * AlgoRhythMatic: <open>
 * Babbexx22: <open>
-* bear1bear2bear3: <open>
+* bear1bear2bear3: Marvingale
 * Damo: PonziCream
 * rach: <open>
-* ipaleka: Marvingale 
    
 After the first batch of applicants is verified/rejected by these 6 members, then we should arrange the time zones and other things for future applicants.
 
@@ -335,8 +334,7 @@ For applicants: if these 6 don't pick you in the following two or three days for
 | Babbexx22      | u/Babbexx22      | GMT+1         | Discord         |
 | SammySpeed     | u/Sammyspeed     | GMT+1         | Discord         |
 | AlgoRhythMatic | u/AlgoRhythMatic | GMT-8         | Reddit          |
-| MGHQ_YT        | u/MGHQ_YTR       | GMT-5         | Discord         |
-| Lario          | u/Larrieman133   | GMT+1         | Discord         |   
+| MGHQ_YT        | u/MGHQ_YTR       | GMT-5         | Discord         |   
    
 # Document version control
 This document’s versioning uses the format: v.<major>.<minor>.<update>.  The “update” version should iterate any time a change occurs that amounts to more than a simple grammatical or typographic correction.  A “minor” iteration should occur when there are a sufficient amount of “updates” that require a re-sync between Google docs and GitHub.  “Major” changes should be very infrequent, and indicate a significant restructuring of the document.  Upon each iteration of “major” or “minor”, the lower version numbers should be reset to 0.  Upon any version updates, the user should also iterate to the current date.
