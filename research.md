@@ -1,6 +1,5 @@
 ### RESEARCH REQUESTS
 
-- [ ] AlgoDEX
 - [ ] ANS
 - [ ] pact.fi
 - [ ] aorist.art
@@ -25,6 +24,7 @@
 
 ### CONDUCTED INITIAL RESEARCH
 
+- [x] AlgoDEX
 - [x] WAGMIswap
 - [x] folks.finance
 - [x] Tinylock
