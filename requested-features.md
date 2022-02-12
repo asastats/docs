@@ -89,6 +89,7 @@
 - [ ] Change ALGO/USD to logo/Symbol
 - [ ] Move ALGO/USD to more prominent spot
 - [ ] Make toggle always on top while scrolling down
+- [ ] First accordion initially opened
 
 #### Community tasks
 
