@@ -1,6 +1,5 @@
 ### HIGH PRIORITY BUGS
 
-- [ ] [B2] Algodex not updating canceled orders
 - [ ] Modifying the description of ASA Stats in the meta tag of the website
 - [ ] Pie shows grey/others label behind the pie (visual bug), after a 14 assets have been passed
 - [ ] Algofi staked amounts sometimes are not shown correctly
@@ -10,6 +9,7 @@
 
 #### Resolved
 
+- [x] [B2] Algodex not updating canceled orders
 - [x] Tokens still displayed after selling them on algodex
 - [x] <sub>smile coin balance (staked) on Asastats is doubled</sub>
 - [x] <sub>Algofi LP Tokens are placed in Not evaluated and not split up</sub>
