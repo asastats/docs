@@ -1,5 +1,6 @@
 ### RESEARCH REQUESTS
 
+- [ ] Yieldly NFT Market
 - [ ] ANS
 - [ ] pact.fi
 - [ ] aorist.art
