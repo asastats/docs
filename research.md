@@ -1,5 +1,6 @@
 ### RESEARCH REQUESTS
 
+- [ ] Algofund staking
 - [ ] Yieldly NFT Market
 - [ ] ANS
 - [ ] pact.fi
