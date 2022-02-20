@@ -1,5 +1,5 @@
 # ASA Stats Tasker code of conduct
-Draft v2.0.6 - February 11th, 2022
+Draft v2.0.7 - February 20th, 2022
 
 Use [the official discussion thread](https://www.reddit.com/r/asastats/comments/rtprj8/asa_stats_tasker_code_of_conduct_discussion/) and [Google Docs document](https://docs.google.com/document/d/1fdvNnKWoHgu9VySbUecIERwVdDCzaFLMZlWZhcLG-xk/edit?usp=sharing) for the update suggestions.
 
@@ -328,13 +328,13 @@ After the first batch of applicants is verified/rejected by these 6 members, the
 For applicants: if these 6 don't pick you in the following two or three days for verification then you'll get another chance the next week. If you spam those 6 in DM you'll be disqualified.
 
 # Confirmed Tasker details   
-| **Discord**    | **Reddit**       | **Timezone**  | Primary Channel |
-| -------------- | ---------------- | ------------- | --------------- |
-| bear1bear2bear3| u/bear1bear2bear3| GMT+1         | Discord         |
-| Babbexx22      | u/Babbexx22      | GMT+1         | Discord         |
-| SammySpeed     | u/Sammyspeed     | GMT+1         | Discord         |
-| AlgoRhythMatic | u/AlgoRhythMatic | GMT-8         | Reddit          |
-| MGHQ_YT        | u/MGHQ_YTR       | GMT-5         | Discord         |   
+| **Discord**    | **Reddit**               | **Timezone**  | Primary Channel |
+| -------------- | ------------------------ | ------------- | --------------- |
+| bear1bear2bear3| u/bear1bear2bear3        | GMT+1         | Discord         |
+| Babbexx22      | u/Babbexx22              | GMT+1         | Discord         |
+| AlgoRhythMatic | u/AlgoRhythMatic         | GMT-8         | Reddit          |
+| MGHQ_YT        | u/MGHQ_YTR               | GMT-5         | Discord         | 
+| PonziCream     | u/AssistTraditional480   | GMT+1         | Discord         |   
    
 # Document version control
 This document’s versioning uses the format: v.<major>.<minor>.<update>.  The “update” version should iterate any time a change occurs that amounts to more than a simple grammatical or typographic correction.  A “minor” iteration should occur when there are a sufficient amount of “updates” that require a re-sync between Google docs and GitHub.  “Major” changes should be very infrequent, and indicate a significant restructuring of the document.  Upon each iteration of “major” or “minor”, the lower version numbers should be reset to 0.  Upon any version updates, the user should also iterate to the current date.
