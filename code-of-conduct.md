@@ -10,7 +10,7 @@ There are three types of discussions in the ASA Stats project:
 
 * **DAO discussions**: discussions that are conducted in the [official repository](https://github.com/asastats/dao-discussion/discussions) and are not related to any internal ASA Stats issues
 
-* **Official discussions**: dcommunity-based discussions where meaningful participation is rewarded. The preferred channel for official discussions is the [ASA Stats subreddit](https://www.reddit.com/r/asastats/). A Tasker’s participation in official discussions (or in any other sub-project) has no connection whatsoever with their Tasker role.
+* **Official discussions**: community-based discussions where meaningful participation is rewarded. The preferred channel for official discussions is the [ASA Stats subreddit](https://www.reddit.com/r/asastats/). A Tasker’s participation in official discussions (or in any other sub-project) has no connection whatsoever with their Tasker role.
 
 * **Other discussions**: everything else in ASA Stats official channels. The exception: places like the #off-topic Discord channel used for chatting without any benefit to the project or the community.
 
