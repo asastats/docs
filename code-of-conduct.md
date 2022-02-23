@@ -1,5 +1,5 @@
 # ASA Stats Tasker code of conduct
-Draft v2.0.7 - February 20th, 2022
+Draft v2.0.8 - February 22nd, 2022
 
 Use [the official discussion thread](https://www.reddit.com/r/asastats/comments/rtprj8/asa_stats_tasker_code_of_conduct_discussion/) and [Google Docs document](https://docs.google.com/document/d/1fdvNnKWoHgu9VySbUecIERwVdDCzaFLMZlWZhcLG-xk/edit?usp=sharing) for the update suggestions.
 
@@ -10,12 +10,12 @@ There are three types of discussions in the ASA Stats project:
 
 * **DAO discussions**: discussions that are conducted in the [official repository](https://github.com/asastats/dao-discussion/discussions) and are not related to any internal ASA Stats issues
 
-* **Official discussions**: discussions that have a related budget and participation in them in a way that contributions to their outcome will be rewarded. The preferred channel for official discussions is the [ASA Stats subreddit](https://www.reddit.com/r/asastats/). A Tasker’s participation in the official discussions (or in any other subproject) has no connection whatsoever with their Tasker role.
+* **Official discussions**: dcommunity-based discussions where meaningful participation is rewarded. The preferred channel for official discussions is the [ASA Stats subreddit](https://www.reddit.com/r/asastats/). A Tasker’s participation in official discussions (or in any other sub-project) has no connection whatsoever with their Tasker role.
 
-* **Other discussions**: basically everything else in our official channels. The exception to this are places like the #off-topic channel in our Discord for chatting without any benefit to the project, its users, or the community.
+* **Other discussions**: everything else in ASA Stats official channels. The exception: places like the #off-topic Discord channel used for chatting without any benefit to the project or the community.
 
 # Role of a Tasker
-A Tasker is a member of the ASA Stats community whose main duty is to react to community members' requests and discussions, while efficiently recording and cataloging entries into a tracking system for developers to process.
+A Tasker is a member of the ASA Stats community whose main duty is to react to the community’s requests, recording and cataloging community discussions and contributions into a tracking system for developers to process, implement and reward.
 
 # Minimal conditions to become a Tasker
 
@@ -42,8 +42,8 @@ The other minimal conditions are as follows:
 
 * You must sign up for a [Trello account](https://trello.com/en-US) (free version) to be able to perform daily tasks.
 
-# Other conditions for becoming a Tasker
-As of Thursday, January 13th, a member who is willing to become a Tasker should open a discussion about it in the ASA Stats Discord or subreddit, and an existing Tasker or admin (even distribution is suggested) should conduct a verification based on personal preferences.
+# Applying to become a Tasker
+Any community member that is interested in applying to become a Tasker should open a discussion about it in the ASA Stats Discord or subreddit.  After confirming the minimal condition requirements, an existing Tasker or Admin will then conduct a verification based on personal preferences.
 
 # The Process
 As noted previously, a Tasker is a member of the ASA Stats community whose main duty is to react to community members' requests.  A Tasker should first react as a Tasker and afterward as a community member.  This means that while acting as a Tasker, a person should seek to simply migrate the community’s requests, from various social media channels, according to a specific ruleset.  The following section seeks to outline this ruleset, establishing the processes and procedures a Tasker should use to perform their daily duties.
@@ -202,7 +202,9 @@ If a Tasker feels they understand what is needed to get the task underway, they 
 
 Some Tasks cards may be straight forward enough for a Tasker to complete on their own with no participation of others (ex: cases where no original content is needed).
 
-Tasks that require generation of original content, or other feedback from the community, should be presented to the community as a discussion.  For cards that require some clarification or planning with team members, a Tasker should use the #tasker-discussion channel for this purpose prior to opening a more formal active participation discussion in an ASA Stats community channel.
+Tasks that require generation of original content, or other community feedback, should be presented to the community as an official discussion.  The preferred channel for presentation of an official discussion is the [ASA Stats subreddit](https://www.reddit.com/r/asastats/) w/ Discussion flair.  After an official discussion is presented on Reddit, it should also be announced simultaneously in the other official channels: a tweet with a link to the announcement on Twitter, and a message linking to the announcement in the Discord #announcements channel.  For the Twitter and Discord announcements, a Tasker will need to request assistance using an @Admin comment in Discord.
+   
+For cards that require some clarification or planning with team members, a Tasker should use the #tasker-discussion channel for this purpose prior to opening a more formal active participation discussion in an ASA Stats community channel.
 
 ### Issue rejection
 #### Already exists
@@ -306,21 +308,21 @@ A formatted list having the same format should be sent to the keeper.
 No community rewards will be sent outside of the process defined by this document.
 
 # Tasker Verification Process
-Each prospective tasker shall undergo a verification process where he or she shall be tested upon his or her understanding of the project, the presented documents, and the related Tasker procedures. The process shall aim to confirm the candidate's readiness and willingness to perform the stipulated responsibilities, their adaptability for efficient handling of tasks, and allow for a demonstration of their Tasker prowess.
+Each prospective Tasker will undergo a verification process where they will tested upon their understanding of the project, official documentation, and the related Tasker procedures.  This process aims to confirm a candidate's readiness to perform all stipulated responsibilities, their adaptability for efficient handling of tasks, and allow for a demonstration of their Tasker prowess.
 
 ## Verification Methodology
-The members of the verification team shall use whatever method that suits them the best to verify a new candidate. This could range from engaging in a public interview, to questions posed at identifying problem solving skills, or could be as simple as thinking someone's being a good person.
+The members of the verification team may use whatever method that suits them best to verify a new candidate. This could range from engaging in a public interview, to questions posed at identifying problem solving skills, or could be as simple as thinking someone's being a good person.
 
-Following the completion of the verification process, there shall be a trial phase of 7 days wherein  a to-be-confirmed Tasker is charged with performing certain tasks, an outcome of which shall ultimately reflect and confirm their adeptness and ability to serve as a confirmed Tasker.  
+Following the completion of the verification process, the prospective Tasker will enter a trial phase of 7 days wherein they will be charged with performing certain tasks, an outcome of which should ultimately reflect and confirm their adeptness and ability to serve as a confirmed Tasker.  
 
-At the end of the trial phase, a committee of existing Taskers will conduct a yes/no vote (majority rules) to ultimately confirm or release the new prospective Tasker.
+At the end of the trial phase, a committee of existing Taskers will conduct a yes/no vote (majority rules) to confirm or release the new prospective Tasker.
 
 ## Verification Queue
 The following members of the community will verify the first batch of Tasker applicants, one at a time:
 * AlgoRhythMatic: <open>
 * Babbexx22: <open>
-* bear1bear2bear3: Marvingale
-* Damo: PonziCream
+* bear1bear2bear3: <open>
+* Damo: <open>
 * rach: <open>
    
 After the first batch of applicants is verified/rejected by these 6 members, then we should arrange the time zones and other things for future applicants.
