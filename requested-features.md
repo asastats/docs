@@ -35,6 +35,7 @@
 
 ### LOW PRIORITY FEATURES 
 
+- [ ] Grouping by creator address (like Grocery Store)
 - [ ] Update Dark/Light icon to moon and crescent
 - [ ] NFT Grocery store market link
 - [ ] Scam/rug pulled tokens warning in the address page
@@ -49,7 +50,6 @@
 - [ ] Watchlist (show 0 balance ASA)
 - [ ] Show Yieldly rewards amount available to claim
 - [ ] Pagination for many assets in the same bundle/address
-- [ ] Grouping by creator address (like Grocery Store)
 - [ ] "Not evaluated" three columns all expanded after click
 - [ ] Project roadmap should be added in the homepage 
 - [ ] Real-time updating
