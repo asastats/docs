@@ -1,5 +1,5 @@
 # ASA Stats Tasker code of conduct
-Draft v2.0.8 - February 22nd, 2022
+Draft v2.0.11 - February 27th, 2022
 
 Use [the official discussion thread](https://www.reddit.com/r/asastats/comments/rtprj8/asa_stats_tasker_code_of_conduct_discussion/) and [Google Docs document](https://docs.google.com/document/d/1fdvNnKWoHgu9VySbUecIERwVdDCzaFLMZlWZhcLG-xk/edit?usp=sharing) for the update suggestions.
 
@@ -41,6 +41,8 @@ The other minimal conditions are as follows:
 * You have to read and comprehend the [ASA Stats Guideline and FAQ](https://docs.google.com/document/d/1QvMSFlYjc9cv7oL_QlgaCpQ5GWJ2fogsI4b7PwV15bE/edit) 
 
 * You must sign up for a [Trello account](https://trello.com/en-US) (free version) to be able to perform daily tasks.
+
+* You must not have any active account bans on Reddit, Discord or Twitter.
 
 # Applying to become a Tasker
 Any community member that is interested in applying to become a Tasker should open a discussion about it in the ASA Stats Discord or subreddit.  After confirming the minimal condition requirements, an existing Tasker or Admin will then conduct a verification based on personal preferences.
@@ -177,8 +179,29 @@ The Tasker who has marked a comment with `:noted:` must also create a new card i
 
 As an initial step just prior to issue creation, a Tasker needs to first use Trello’s search field (located in the upper right-hand portion of the browser), combined with a few keywords from the request, to double-check that a related card does not already exist on one of the boards.
 
-Each card should be created under the "Incoming" list in either the “Bug Reports” or “Feature Requests” Trello boards.  Bug Reports should be used to track reports of defects, while the Feature Requests board should be used for all other feature requests, enhancements, or improvements.   If the request is a priority bug report or feature request, then the Tasker should label it that way (red/highest priority).
+Each card should be created under the "Incoming" list in either the “Bug Reports” or “Feature Requests” Trello boards.  
 
+Bug Reports should be used to track reports of defects, while the Feature Requests board should be used for all other feature requests, enhancements, or improvements.
+
+### Title notation
+When creating a Trello card, a Tasker should add a [<Letter><Number>] prefix notation to the beginning of each title to indicate the letter-based type and number-based impact of each request.  Impact values may range from 1 to 3, where a [B1] bug has half the impact of a [B2], and a [B3] has triple the impact of a [B1].
+
+For more details on types and impact levels, please refer to the table below:
+   
+| **Contribution Type** | **Definition**           | **Level 1** | **Level 2** | **Level 3** |
+| -------------------   | ------------------------ | ----------- | ----------- | ----------- |
+| [AT] Admin Task       | A task to produce some work that facilitates community administration across official channels. Examples: creation of contributor lists, reference checking, setup of Discord bots, cross-posting comments, or any task where the prescribed output leaves little room for interpretation. | The task takes up to 1 hour to complete | The task takes 1 to 2 hours to complete | The task takes 4 or more hours to complete |
+| [B] Bug Report        | Report of a untracked defect or unexpected behaviour on asastats.com. | The bug report provides context (e.g. OS version, browser) and helpful steps to reproduce the faulty behaviour. | Contributor engages with ASA Stats to provide more information and assists in testing during resolution, acknowledges when fix is satisfactory. | Contributor provides deep insights that directly impacts resolution (e.g. browser side code analysis) |
+| [CT] Content Task     | A task to produce written content that helps ASA Stats achieve its stated goals. Examples: an announcement in an official channel, copywriting for the asastas.com website, an email to form a partnership, or a submission to a partner site. | The task takes up to 1 hour to complete. | The task takes 1 to 2 hours to complete. | The task takes 4 or more hours to complete. |
+| [D] Discussion        | A sustained public channel discussion on a relevant ASA Stats topic, where one or more contributors make insightful comments keeping the community engaged | The contribution contains factually correct information, balanced opinions, and provides a substantive amount of the discussion with several other members. | N/A | N/A |
+| [F] Feature Request   | A request for a new feature or functionality improvement for ASA Stats. | The request is specific, original, and generates sufficient support from the community (i.e. reactions and replies). | The request is well thought-out, and includes a suggested path to implementation. |  The request is backed with a significant volume of research (UI mockups, technical analysis, etc.) |         
+| [MT] Marketing Task   | A marketing or PR task that helps to improve ASA Stats' visibility or reputation. | The task takes up to 1 hour to complete. | The task takes 1 to 2 hours to complete | The task takes 4 or more hours to complete |   
+| [R] Research          | Research that provides new and relevant information related to ASA Stats' operations or the Algorand ecosystem. Useful research should contain original sources, and clearly explain how/why it addresses an official ASA Stats announcement or request (re: partnership, data source integration, etc.) | The research takes up to 1 hour to complete, and is specific, original, and generates sufficient support from the community (i.e. reactions and replies). | The research takes 1 to 2 hours to complete, and contains a thorough well-thought process and a path to implementation. | The research takes 4 or more hours to complete, and is backed with a significant volume of research (research, draft proposal, technical analysis, etc.) |      
+| [S] Suggestion        | A meaningful suggestion for an improvement to the ASA Stats site, community or token. | The suggestion is specific, original, and generates sufficient support from the community (i.e. reactions and replies). | The suggestion is well thought-out, and includes a suggested path to implementation. | The suggestion is backed with a significant volume of research (UI mockups, technical analysis, etc.) |
+
+If a Tasker is unsure about the specific contribution type or impact level that should be applied to a Trello card, they may open a discussion in the #tasker-discussion channel to achieve consensus.    
+   
+### Issue description
 A Tasker should add a link to the original/first comment in the request, and quote (using `> ` in front of the text) either all the comment's text or its relevant parts.
 
 Example:  
