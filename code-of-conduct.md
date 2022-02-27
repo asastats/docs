@@ -1,5 +1,5 @@
 # ASA Stats Tasker code of conduct
-Draft v2.0.11 - February 27th, 2022
+Draft v2.0.12 - February 27th, 2022
 
 Use [the official discussion thread](https://www.reddit.com/r/asastats/comments/rtprj8/asa_stats_tasker_code_of_conduct_discussion/) and [Google Docs document](https://docs.google.com/document/d/1fdvNnKWoHgu9VySbUecIERwVdDCzaFLMZlWZhcLG-xk/edit?usp=sharing) for the update suggestions.
 
@@ -184,7 +184,7 @@ Each card should be created under the "Incoming" list in either the “Bug Repor
 Bug Reports should be used to track reports of defects, while the Feature Requests board should be used for all other feature requests, enhancements, or improvements.
 
 ### Title notation
-When creating a Trello card, a Tasker should add a [<Letter><Number>] prefix notation to the beginning of each title to indicate the letter-based type and number-based impact of each request.  Impact values may range from 1 to 3, where a [B1] bug has half the impact of a [B2], and a [B3] has triple the impact of a [B1].
+When creating a Trello card, a Tasker should add a [LetterNumber] prefix notation to the beginning of each title to indicate the letter-based type and number-based impact of each request.  Impact values may range from 1 to 3, where a [B1] bug has half the impact of a [B2], and a [B3] has triple the impact of a [B1].
 
 For more details on types and impact levels, please refer to the table below:
    
