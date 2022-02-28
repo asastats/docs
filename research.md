@@ -1,5 +1,6 @@
 ### RESEARCH REQUESTS
 
+- [ ] Research Live Coin Watch
 - [ ] Algofund staking
 - [ ] Yieldly NFT Market
 - [ ] ANS
