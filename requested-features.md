@@ -68,6 +68,7 @@
 - [ ] Provide link(s) for opt-out from ASA and dApps
 - [ ] Algo/USD price should be displayed together without using toggle
 - [ ] NFTs placed below ASAs
+- [ ] Charts placed between NFTs and ASAs on mobile
 
 #### Mockfolio
 
