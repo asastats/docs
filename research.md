@@ -7,7 +7,6 @@
 - [ ] pact.fi
 - [ ] aorist.art
 - [ ] AlgoWorld.io
-- [ ] Octorand
 - [ ] Choice coin governance
 - [ ] Algoverse DEX and related products
 - [ ] ToolsX LP token locker
@@ -36,6 +35,7 @@
 
 ### FINISHED RESEARCH
 
+- [x] Octorand
 - [x] Fairmeme Locker
 - [x] Algofi DEX
 - [x] Tinylock
