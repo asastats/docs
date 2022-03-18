@@ -1,6 +1,5 @@
 ### HIGH PRIORITY BUGS
 
-- [ ] Respective ASA value in the LP tokens are not being picked up in 0.5alpha
 - [ ] Some Lofty properties (8201 Madison Ave) don't show up
 - [ ] Modifying the description of ASA Stats in the meta tag of the website
 - [ ] Pie shows grey/others label behind the pie (visual bug), after a 14 assets have been passed
@@ -11,6 +10,7 @@
 
 #### Resolved
 
+- [x] Respective ASA value in the LP tokens are not being picked up in 0.5alpha
 - [x] [B2] Algodex not updating canceled orders
 - [x] Tokens still displayed after selling them on algodex
 - [x] <sub>smile coin balance (staked) on Asastats is doubled</sub>
