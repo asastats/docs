@@ -2,7 +2,7 @@
 
 - [ ] app.tinyman.org/#/staking
 - [ ] fxdx.exchange
-- [ ] xbacked.io
+- [ ] xBacked
 - [ ] Safe Swap
 - [ ] Live Coin Watch
 - [ ] Algofund staking
