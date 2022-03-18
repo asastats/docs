@@ -19,6 +19,7 @@
 
 ### MEDIUM PRIORITY BUGS
 
+- [ ] In the case of multiple level properties JSON array are shown under NFT
 - [ ] Overlapping text in NFT properties columns
 - [ ] Algofi payed off asset is showing up under "not evaluated"
 - [ ] Open bundle with comma, semicolon and underscore too. 
