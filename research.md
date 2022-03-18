@@ -1,5 +1,9 @@
 ### RESEARCH REQUESTS
 
+- [ ] app.tinyman.org/#/staking
+- [ ] fxdx.exchange
+- [ ] xbacked.io
+- [ ] Safe Swap
 - [ ] Live Coin Watch
 - [ ] Algofund staking
 - [ ] Yieldly NFT Market
