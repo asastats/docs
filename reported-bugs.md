@@ -1,5 +1,6 @@
 ### HIGH PRIORITY BUGS
 
+- [ ] Some Lofty properties (8201 Madison Ave) don't show up
 - [ ] Modifying the description of ASA Stats in the meta tag of the website
 - [ ] Pie shows grey/others label behind the pie (visual bug), after a 14 assets have been passed
 - [ ] Algofi staked amounts sometimes are not shown correctly
@@ -17,6 +18,7 @@
 
 ### MEDIUM PRIORITY BUGS
 
+- [ ] Overlapping text in NFT properties columns
 - [ ] Algofi payed off asset is showing up under "not evaluated"
 - [ ] Open bundle with comma, semicolon and underscore too. 
 - [ ] Invisible chart pie for wallet that does not have other ASA (assets); on mobile
