@@ -12,6 +12,7 @@
 
 ### MEDIUM PRIORITY FEATURES
 
+- [ ] Reverse price per unit too after click
 - [ ] Use % from algostake and display staking rewards
 - [ ] Reduce font/Shorten address by adding ...
 - [ ] Add warning message only to affected users if applicable
