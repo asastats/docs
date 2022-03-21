@@ -1,5 +1,6 @@
 ### RESEARCH REQUESTS
 
+- [ ] AsaEx (Algodoggo)
 - [ ] app.tinyman.org/#/staking
 - [ ] fxdx.exchange
 - [ ] xBacked
