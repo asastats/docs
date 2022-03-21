@@ -39,6 +39,7 @@
 
 ### LOW PRIORITY FEATURES 
 
+- [ ] Possibility to write notes
 - [ ] Grouping by creator address (like Grocery Store)
 - [ ] Update Dark/Light icon to moon and crescent
 - [ ] NFT Grocery store market link
@@ -70,6 +71,10 @@
 - [ ] Algo/USD price should be displayed together without using toggle
 - [ ] NFTs placed below ASAs
 - [ ] Charts placed between NFTs and ASAs on mobile
+
+#### User widgets
+
+- [ ] List NFT for sale
 
 #### Mockfolio
 
