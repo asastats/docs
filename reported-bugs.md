@@ -1,6 +1,6 @@
 ### HIGH PRIORITY BUGS
 
-- [ ] Some Lofty properties (8201 Madison Ave) don't show up
+- [ ] Some Rand Gallery listings are not shown
 - [ ] Modifying the description of ASA Stats in the meta tag of the website
 - [ ] Pie shows grey/others label behind the pie (visual bug), after a 14 assets have been passed
 - [ ] Algofi staked amounts sometimes are not shown correctly
@@ -10,6 +10,7 @@
 
 #### Resolved
 
+- [x] Some Lofty properties (8201 Madison Ave) don't show up
 - [x] Respective ASA value in the LP tokens are not being picked up in 0.5alpha
 - [x] [B2] Algodex not updating canceled orders
 - [x] Tokens still displayed after selling them on algodex
