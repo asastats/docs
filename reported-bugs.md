@@ -4,12 +4,13 @@
 - [ ] Modifying the description of ASA Stats in the meta tag of the website
 - [ ] Pie shows grey/others label behind the pie (visual bug), after a 14 assets have been passed
 - [ ] Algofi staked amounts sometimes are not shown correctly
-- [ ] Update Freckle VIP-Freckle Tinyman pool data
 - [ ] Fourth or fifth wallet address in bundle going off screen on mobile  
 - [ ] Stale data from AlgoFi still displayed after >1 hr
 
 #### Resolved
 
+- [x] Algo buy orders in AlgoDEX not shown
+- [x] Update Freckle VIP-Freckle Tinyman pool data
 - [x] Some Lofty properties (8201 Madison Ave) don't show up
 - [x] Respective ASA value in the LP tokens are not being picked up in 0.5alpha
 - [x] [B2] Algodex not updating canceled orders
