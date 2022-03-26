@@ -1,5 +1,5 @@
 # ASA Stats Tasker code of conduct
-Draft v2.0.12 - February 27th, 2022
+Draft v2.0.14 - March 26th, 2022
 
 Use [the official discussion thread](https://www.reddit.com/r/asastats/comments/rtprj8/asa_stats_tasker_code_of_conduct_discussion/) and [Google Docs document](https://docs.google.com/document/d/1fdvNnKWoHgu9VySbUecIERwVdDCzaFLMZlWZhcLG-xk/edit?usp=sharing) for the update suggestions.
 
@@ -270,30 +270,21 @@ https://github.com/asastats/docs/blob/main/reported-bugs.md
 https://github.com/asastats/docs/blob/main/requested-features.md
 
 ### Issue evaluation
-The cards from the "Done" list are evaluated by the community after every cycle.
+All cards from the "Done/Deployed" list of each Trello board should be evaluated by Taskers after each two week cycle, ending on Friday at 23:59 UTC. 
 
-A cycle should be set to two weeks and it ends on Friday 23:59 UTC. A community discussion created for the purpose should be opened on the following Saturday and it should outcome with the users’ budget in damo for that cycle.
+After the end of each cycle, a Tasker should audit the selected Trello cards to ensure that they have the proper Type/Impact + recipient values.
 
-The cards belonging to the official discussions or to the other subprojects are excluded as they should have their own budgets.
+After each card is validated, its contents should then be added as a one line entry into the [ASA Stats - Contribution Rewards](https://docs.google.com/spreadsheets/d/1UJ9ZyvV0fdcXAfpUNOsRa1aCmJko-QhF-BU4Wcu6Xog/edit#gid=238932857) spreadsheet under the Ongoing Contributions tab.  Each card should then be moved into the top of the Archived list in Trello.
 
-### Commenters' budget and share
-The community decides of the shares every original commenter gets.
+Once all cards have been added to the spreadsheet, values should be output from the spreadsheet's Rewards by Period tab into the standardized format used in the rewards compiling section below.
 
-At the same time or after the previous point, the community decides what is the share of each card in the cycle’s total.
-
+The cards belonging to the official discussions or to the other sub-projects are excluded as they should have their own budgets.
 
 ### Taskers' budget
 At the same time or after the previous points, the community decides what should be the Taskers budget for the cycle. The influencing factors should be the related users’ budget and the other amount of work done in the cycle, including the Taskers’ work for the subprojects and discussions having their own budgets.
 
-
-### Taskers' share
-Taskers among themselves decide on their individual shares in the cycle’s budget.
-
-If they can’t decide, then they should ask the community to decide for them in a public discussion. No rewards will be provided for such a discussion as such a discussion fails to qualify to be an official discussion. If a community also can’t decide then the Tasker’s cycle budget will be added up to the cycle’s users budget.
-
-
 ### Rewards compiling
-A completed cycle list with all the individual shares is sent to the keeper of the Community Rewards Pool.
+A completed cycle list with all the individual shares should be submitted to the keeper of the Community Rewards Pool via the Discord #rewards-discussion channel.
 
 The keeper checks that all the numbers and the format match. If they don't match then the list is returned back for correction.
 
@@ -309,8 +300,6 @@ The format for the list is the following:
     u/username 0.2 damo
     # the next line represents a Twitter handle
     @username 0.05 damo
-
-After the keeper confirms the list is correct, Taskers move the cards from Done to Archived list.
 
 ### Usernames public addresses verification
 The keeper checks if the usernames are connected with the Algorand addresses
@@ -360,6 +349,9 @@ For applicants: if these 6 don't pick you in the following two or three days for
 | AlgoRhythMatic | u/AlgoRhythMatic         | GMT-8         | Reddit          |
 | MGHQ_YT        | u/MGHQ_YTR               | GMT-5         | Discord         | 
 | PonziCream     | u/AssistTraditional480   | GMT+1         | Discord         |   
+
+# No punishment clause
+ASA Stats has a firm “no punishment” clause that guarantees all officials and community members will be fully rewarded for their recognized contributions.  If a community member is ever banned from any public channels, forcing them to resign from their official position, ASA Stats promises to never withhold contributions as a means of punishment or retribution.   
    
 # Document version control
 This document’s versioning uses the format: v.<major>.<minor>.<update>.  The “update” version should iterate any time a change occurs that amounts to more than a simple grammatical or typographic correction.  A “minor” iteration should occur when there are a sufficient amount of “updates” that require a re-sync between Google docs and GitHub.  “Major” changes should be very infrequent, and indicate a significant restructuring of the document.  Upon each iteration of “major” or “minor”, the lower version numbers should be reset to 0.  Upon any version updates, the user should also iterate to the current date.
