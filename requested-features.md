@@ -1,5 +1,6 @@
 ### HIGH PRIORITY FEATURES
 
+- [ ] Display LP and and LP Farming on Algofi
 - [ ] Add purchase date for NFTs
 - [ ] Prepare Algofi feature for commited governance-Algos
 - [ ] Display amount of tokens held by address, not total amount+lp
