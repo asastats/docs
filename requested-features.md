@@ -92,6 +92,7 @@
 - [ ] Borrowed values reversely calculated 
 - [ ] Add chart directly in the token section
 - [ ] Statistics for NFTs
+- [ ] Transaction ledger functionality/individual positions
 
 #### QA testing (after testing infrastructure is deployed - [Roadmap 19.](https://github.com/asastats/docs/blob/main/roadmap.md))
 
