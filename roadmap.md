@@ -25,7 +25,8 @@ Every individual DEX provider will get its own module inside the dex package. Th
 The ASA Stats Team, with the help of its community, will research all the available automated market maker solutions on Algorand blockchain with plans of deploying on Mainnet.
 
    - [ ] Humble Swap
-   - [ ] Yieldly AMM
+   - [ ] Algofi AMM
+   - [ ] PactFi AMM
 
 4) AMM implementation  
 As of January 2022, AMM solutions planned for deployment on the Algorand MainNet include at least Yieldly AMM and Humble Swap.
@@ -35,7 +36,8 @@ The ASA Stats Team has developed the amm package inside the main application for
 Every individual AMM provider will get its own module inside the amm package in the same way that the ASA Stats Team created the `tinyman` module. The ASA Stats Team will be responsible for their development, as well as for their updates.
 
    - [ ] `humbleswap`
-   - [ ] `yieldlyamm`
+   - [ ] `algofiamm`
+   - [ ] `pactfiamm`
 
 
 5) NFT markets/galleries research  
