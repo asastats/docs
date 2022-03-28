@@ -32,6 +32,7 @@
 
 ### CONDUCTED INITIAL RESEARCH
 
+- [x] pact.fi
 - [x] AlgoDEX
 - [x] WAGMIswap
 - [x] folks.finance
