@@ -107,3 +107,8 @@
 #### Community tasks
 
 - [ ] Add anchors to the asastats.com FAQ after it is updated
+
+#### Advance bundles
+
+- [ ] Edit bundle's addresses
+
