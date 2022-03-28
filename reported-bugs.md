@@ -1,6 +1,7 @@
 ### HIGH PRIORITY BUGS
 
-- [ ] Lofty property tokens not shown
+- [ ] RandGallery and Algogems don't show updated prices
+- [ ] Some Lofty property tokens are not shown (allegedly)
 - [ ] Some Rand Gallery listings are not shown
 - [ ] Modifying the description of ASA Stats in the meta tag of the website
 - [ ] Pie shows grey/others label behind the pie (visual bug), after a 14 assets have been passed
