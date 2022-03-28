@@ -1,5 +1,6 @@
 ### RESEARCH REQUESTS
 
+- [ ] Humble Swap
 - [ ] AsaEx (Algodoggo)
 - [ ] app.tinyman.org/#/staking
 - [ ] fxdx.exchange
