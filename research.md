@@ -10,7 +10,6 @@
 - [ ] Algofund staking
 - [ ] Yieldly NFT Market
 - [ ] ANS
-- [ ] pact.fi
 - [ ] aorist.art
 - [ ] AlgoWorld.io
 - [ ] Choice coin governance
