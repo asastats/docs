@@ -76,6 +76,7 @@
 #### User widgets
 
 - [ ] List NFT for sale
+- [ ] Add liquidity to (multiple) AMM pools
 
 #### Mockfolio
 
