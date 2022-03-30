@@ -1,5 +1,5 @@
 # ASA Stats Tasker code of conduct
-Draft v2.0.14 - March 26th, 2022
+Draft v2.1.0 - March 29th, 2022
 
 Use [the official discussion thread](https://www.reddit.com/r/asastats/comments/rtprj8/asa_stats_tasker_code_of_conduct_discussion/) and [Google Docs document](https://docs.google.com/document/d/1fdvNnKWoHgu9VySbUecIERwVdDCzaFLMZlWZhcLG-xk/edit?usp=sharing) for the update suggestions.
 
@@ -269,7 +269,7 @@ https://github.com/asastats/docs/blob/main/reported-bugs.md
 
 https://github.com/asastats/docs/blob/main/requested-features.md
 
-### Issue evaluation
+### Community rewards overview
 All cards from the "Done/Deployed" list of each Trello board should be evaluated by Taskers after each two week cycle, ending on Friday at 23:59 UTC. 
 
 After the end of each cycle, a Tasker should audit the selected Trello cards to ensure that they have the proper Type/Impact + recipient values.
@@ -280,13 +280,20 @@ Once all cards have been added to the spreadsheet, values should be output from 
 
 The cards belonging to the official discussions or to the other sub-projects are excluded as they should have their own budgets.
 
-### Taskers' budget
-At the same time or after the previous points, the community decides what should be the Taskers budget for the cycle. The influencing factors should be the related users’ budget and the other amount of work done in the cycle, including the Taskers’ work for the subprojects and discussions having their own budgets.
+### Rewards processing: Trello -> Spreadsheet -> Discord
+1. **From [ASA Stats Contribution Rewards](https://docs.google.com/spreadsheets/d/1UJ9ZyvV0fdcXAfpUNOsRa1aCmJko-QhF-BU4Wcu6Xog/edit#gid=238932857) spreadsheet**: enter a new "Period below" header under the "Ongoing Contributions" tab - this can be cut/paste from prior cycles, with adjustments made to specify the date range and Tasker performing the work.
 
-### Rewards compiling
-A completed cycle list with all the individual shares should be submitted to the keeper of the Community Rewards Pool via the Discord #rewards-discussion channel.
+2. **From Trello**: start from bottom of each Done/Deployed list on each board, and review each card.  Ensure that it has the appropriate Type and Impact, and that the appropriate recipients are specified.  As well, make a note of the Tasker that created the card (noted as person that “...added this card to incoming”).
 
-The keeper checks that all the numbers and the format match. If they don't match then the list is returned back for correction.
+3. **From the spreadsheet**: enter in one line of data per reward recipient, filling in appropriate field values in columns A through I for: Person, Period begins/ends, Platform, Channel, Contribution (reddit, discord, or twitter link), Contribution Type, Impact level, % reward to receive.
+
+4. **From the spreadsheet**: Clone or drag the cell formula down from a prior row in column J to calculate rewards in this column. 
+
+5. **From Trello**: After addition of each card into the spreadsheet, move the card from Done/Deployed to the top of the Archived list + add a comment "Added to rewards spreadsheet".
+
+6. **From Trello**:  The Tasker that performs the rewards processing task for a given cycle should enter an [AT] Admin Task card to track their hours, and then enter this as the file entry in the spreadsheet + move this task to the Archived list per process above.
+
+7. **From the spreadsheet**: after all Trello card entries have been added into the spreadsheet, navigate to the "Rewards by Period" tab, and copy the output values from column D into a list in a text file.
 
 The format for the list is the following:
 
@@ -300,6 +307,24 @@ The format for the list is the following:
     u/username 0.2 damo
     # the next line represents a Twitter handle
     @username 0.05 damo
+At the end of the list, the total should be added from column C of the spreadsheet:
+   
+	 TOTAL 0.55 damo
+
+A completed cycle list with all the individual shares + the total should then be submitted to the keeper of the Community Rewards Pool via the Discord #rewards-discussion channel.
+
+The keeper checks that all the numbers and the format match. If they don't match, then the list is returned back for correction.
+
+### Tasker rewards
+After all community rewards have been evaluated and counted for each cycle, Taskers will receive .01 damo for each related Trello card they've created and handled.  This card count should be tabulated during the Community rewards processing, and then submitted via the proper list formatting specified above.  The Tasker that tabulates the Community rewards for a given cycle is also responsible for counting and submitting the Tasker rewards.
+
+### Admin rewards
+Admin rewards are currently defined as follows for each 2-week cycle:
+* **Discord Admin**: 0.1 damo
+* **Reddit Admin**: 0.1 damo
+* **Twitter Admin**: 0.05 damo
+
+The Tasker that tabulates the Community rewards for a given cycle is also responsible for submitting Admin rewards using the proper list formatting specified above. 
 
 ### Usernames public addresses verification
 The keeper checks if the usernames are connected with the Algorand addresses
