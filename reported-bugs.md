@@ -1,7 +1,6 @@
 ### HIGH PRIORITY BUGS
 
 - [ ] RandGallery and Algogems don't show updated prices
-- [ ] Some Lofty property tokens are not shown (allegedly)
 - [ ] Some Rand Gallery listings are not shown
 - [ ] Modifying the description of ASA Stats in the meta tag of the website
 - [ ] Pie shows grey/others label behind the pie (visual bug), after a 14 assets have been passed
@@ -20,6 +19,7 @@
 - [x] <sub>smile coin balance (staked) on Asastats is doubled</sub>
 - [x] <sub>Algofi LP Tokens are placed in Not evaluated and not split up</sub>
 - [x] <sub>Tinyman 1.1 liquidity amounts are not shown</sub>
+- [x] [B3]Some Lofty property tokens are not shown
 
 ### MEDIUM PRIORITY BUGS
 
