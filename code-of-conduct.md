@@ -274,7 +274,7 @@ All cards from the "Done/Deployed" list of each Trello board should be evaluated
 
 After the end of each cycle, a Tasker should audit the selected Trello cards to ensure that they have the proper Type/Impact + recipient values.
 
-After each card is validated, its contents should then be added as a one line entry into the [ASA Stats - Contribution Rewards](https://docs.google.com/spreadsheets/d/1UJ9ZyvV0fdcXAfpUNOsRa1aCmJko-QhF-BU4Wcu6Xog/edit#gid=238932857) spreadsheet under the Ongoing Contributions tab.  Each card should then be moved into the top of the Archived list in Trello.
+After each card is validated, its contents should then be added as a one line entry into the [ASA Stats Contribution Rewards](https://docs.google.com/spreadsheets/d/1UJ9ZyvV0fdcXAfpUNOsRa1aCmJko-QhF-BU4Wcu6Xog/edit#gid=238932857) spreadsheet under the Ongoing Contributions tab.  Each card should then be moved into the top of the Archived list in Trello.
 
 Once all cards have been added to the spreadsheet, values should be output from the spreadsheet's Rewards by Period tab into the standardized format used in the rewards compiling section below.
 
