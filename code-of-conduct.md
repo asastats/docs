@@ -345,15 +345,18 @@ A formatted list having the same format should be sent to the keeper.
 No community rewards will be sent outside of the process defined by this document.
 
 # Tasker Verification Process
-Each prospective Tasker will undergo a verification process where they will tested upon their understanding of the project, official documentation, and the related Tasker procedures.  This process aims to confirm a candidate's readiness to perform all stipulated responsibilities, their adaptability for efficient handling of tasks, and allow for a demonstration of their Tasker prowess.
+Each prospective Tasker will undergo a verification process where they will tested upon their understanding of the project, official documentation, and the related Tasker procedures.  This process aims to confirm a candidate's readiness to perform all stipulated responsibilities, their adaptability for efficient handling of tasks, and allow for a demonstration of a Tasker-based skillset.
 
 ## Verification Methodology
 The members of the verification team may use whatever method that suits them best to verify a new candidate. This could range from engaging in a public interview, to questions posed at identifying problem solving skills, or could be as simple as thinking someone's being a good person.
 
-Following the completion of the verification process, the prospective Tasker will enter a trial phase of 7 days wherein they will be charged with performing certain tasks, an outcome of which should ultimately reflect and confirm their adeptness and ability to serve as a confirmed Tasker.  
+Following the completion of the verification process, the prospective Tasker will enter a trial phase of 7-10 days wherein they will be charged with performing certain tasks, an outcome of which should ultimately reflect and confirm their adeptness and ability to serve as a confirmed Tasker.  
 
-At the end of the trial phase, a committee of existing Taskers will conduct a yes/no vote (majority rules) to confirm or release the new prospective Tasker.
+At the end of the trial phase, a committee of existing Taskers will conduct a yes/no vote (majority rules) to confirm or release a new prospective Tasker.
 
+## Stipend for becoming a Tasker
+If a Tasker passes the trial phase, they will be awarded a stipend of .5 damo (500,000 ASASTATS tokens).	
+	
 ## Verification Queue
 The following members of the community will verify the first batch of Tasker applicants, one at a time:
 * AlgoRhythMatic: <open>
