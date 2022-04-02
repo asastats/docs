@@ -1,6 +1,5 @@
 ### HIGH PRIORITY BUGS
 
-- [ ] XET is not shown when in Algofi XET-STBL pool
 - [ ] RandGallery and Algogems don't show updated prices
 - [ ] Some Rand Gallery listings are not shown
 - [ ] Modifying the description of ASA Stats in the meta tag of the website
@@ -11,6 +10,7 @@
 
 #### Resolved
 
+- [x] XET is not shown when in Algofi XET-STBL pool
 - [x] Some Lofty property tokens are not shown
 - [x] Algo buy orders in AlgoDEX not shown
 - [x] Update Freckle VIP-Freckle Tinyman pool data
