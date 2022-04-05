@@ -13,6 +13,7 @@
 
 ### MEDIUM PRIORITY FEATURES
 
+- [ ] Staking feature for the DopeDucky
 - [ ] Reverse price per unit too after click
 - [ ] Use % from algostake and display staking rewards
 - [ ] Reduce font/Shorten address by adding ...
