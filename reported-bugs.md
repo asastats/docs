@@ -1,5 +1,6 @@
 ### HIGH PRIORITY BUGS
 
+- [ ] Wrong last purchase price for FORUM Astro #2
 - [ ] RandGallery and Algogems don't show updated prices
 - [ ] Some Rand Gallery listings are not shown
 - [ ] Modifying the description of ASA Stats in the meta tag of the website
