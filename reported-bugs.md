@@ -25,6 +25,7 @@
 
 ### MEDIUM PRIORITY BUGS
 
+- [ ] Missing Tinychart icon for Smile when only staked
 - [ ] In the case of multiple level properties JSON array are shown under NFT
 - [ ] Overlapping text in NFT properties columns
 - [ ] Algofi payed off asset is showing up under "not evaluated"
