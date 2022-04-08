@@ -1,5 +1,6 @@
 ### HIGH PRIORITY BUGS
 
+- [ ] Count display on number of collections is wrong
 - [ ] Wrong last purchase price for FORUM Astro #2
 - [ ] RandGallery and Algogems don't show updated prices
 - [ ] Some Rand Gallery listings are not shown
