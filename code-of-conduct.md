@@ -1,5 +1,5 @@
 # ASA Stats Tasker code of conduct
-Draft v2.1.0 - March 29th, 2022
+Draft v2.1.1 - April 10th, 2022
 
 Use [the official discussion thread](https://www.reddit.com/r/asastats/comments/rtprj8/asa_stats_tasker_code_of_conduct_discussion/) and [Google Docs document](https://docs.google.com/document/d/1fdvNnKWoHgu9VySbUecIERwVdDCzaFLMZlWZhcLG-xk/edit?usp=sharing) for the update suggestions.
 
@@ -280,7 +280,7 @@ Once all cards have been added to the spreadsheet, values should be output from 
 
 The cards belonging to the official discussions or to the other sub-projects are excluded as they should have their own budgets.
 
-### Rewards processing: Trello -> Spreadsheet -> Discord
+### Rewards processing: Trello -> Spreadsheet -> rewards list
 1. **From [ASA Stats Contribution Rewards](https://docs.google.com/spreadsheets/d/1UJ9ZyvV0fdcXAfpUNOsRa1aCmJko-QhF-BU4Wcu6Xog/edit#gid=238932857) spreadsheet**: enter a new "Period below" header under the "Ongoing Contributions" tab - this can be cut/paste from prior cycles, with adjustments made to specify the date range and Tasker performing the work.
 
 2. **From Trello**: start from bottom of each Done/Deployed list on each board, and review each card.  Ensure that it has the appropriate Type and Impact, and that the appropriate recipients are specified.  As well, make a note of the Tasker that created the card (noted as person that “...added this card to incoming”).
@@ -295,25 +295,39 @@ The cards belonging to the official discussions or to the other sub-projects are
 
 7. **From the spreadsheet**: after all Trello card entries have been added into the spreadsheet, navigate to the "Rewards by Period" tab, and copy the output values from column D into a list in a text file.
 
-The format for the list is the following:
+### Rewards list formatting
+Each list should begin with  a single-line comment at the top that begins with NOTE, and then describes the purpose of the list and the related beginning and end dates for the related cycle.
 
-    # this is a comment
-    # the next line represents a Discord username
-    # and related rewards for the cycle
-    username 0.08 damo
-    # a minimum amount for now is 0.01 damo (10,000 ASASTATS)
-    # so please round the numbers to two decimals in advance
-    # the next line represents a Reddit username
-    u/username 0.2 damo
-    # the next line represents a Twitter handle
-    @username 0.05 damo
-At the end of the list, the total should be added from column C of the spreadsheet:
-   
-	 TOTAL 0.55 damo
+Example first line NOTE comment:
+	
+     # NOTE ASA Stats Community rewards 1/01 - 3/25
 
-A completed cycle list with all the individual shares + the total should then be submitted to the keeper of the Community Rewards Pool via the Discord #rewards-discussion channel.
+Example formatting for a Discord username and related rewards for a cycle:
 
-The keeper checks that all the numbers and the format match. If they don't match, then the list is returned back for correction.
+     username 0.08 damo
+
+Example formatting for a Reddit username and related rewards for a cycle:
+     
+     u/username 0.2 damo
+
+Example formatting for a Twitter handle and related rewards for the cycle:
+     
+     @username 0.05 damo
+
+The current minimum reward is 0.01 damo (10,000 ASASTATS), so please round up to two decimals.
+At the end of the list, the total should be added from column C of the spreadsheet (or by manual calculation):
+     
+     TOTAL 0.55 damo
+
+Example formatting for a full list:
+     
+     # NOTE ASA Stats Community rewards 1/01 - 3/25
+     @TylerOlthoff 0.02 damo
+     AngelOfAres 0.02 damo
+     CryDev 0.02 damo
+     u/Algonut 0.02 damo
+     u/Better-Situation-769 0.02 damo
+     TOTAL 0.10 damo
 
 ### Tasker rewards
 After all community rewards have been evaluated and counted for each cycle, Taskers will receive .01 damo for each related Trello card they've created and handled.  This card count should be tabulated during the Community rewards processing, and then submitted via the proper list formatting specified above.  The Tasker that tabulates the Community rewards for a given cycle is also responsible for counting and submitting the Tasker rewards.
@@ -326,16 +340,26 @@ Admin rewards are currently defined as follows for each 2-week cycle:
 
 The Tasker that tabulates the Community rewards for a given cycle is also responsible for submitting Admin rewards using the proper list formatting specified above. 
 
-### Usernames public addresses verification
-The keeper checks if the usernames are connected with the Algorand addresses
-
-For the missing connections (implies no rewards have been sent yet to that user) an admin from the related channel will reach the user in DM asking for a public Algorand  address.
-
 ### Rewards sending
-For the missing opt-ins, an admin from the related channel will reach the user in DM asking from them to opt-in for the ASA STats Token.
+Once a Tasker has assembled complete cycle lists for Community, Tasker, and Admin rewards, they should then present the results in the Discord  #tasker-discussion channel so that other Taskers may perform a review.
+	
+After the rewards lists have been reviewed by at least one other official, the Tasker should then:
+	
+* Submit the rewards lists to the Discord #rewards-discussion channel, using ``` notation to format the list in block code.
+* Send a Discord DM to the Keeper of the Community Rewards (currently Ipaleka) to confirm that the list is checked and should be sent.
+* Post an announcement to Reddit and Twitter to publicly present the rewards recipients.
+
+The Keeper then checks that all the numbers and formats match. If they don't match, then the list is returned back for correction.
+
+### Username public addresses verification
+Before sending, the Keeper checks if the usernames are already connected with an Algorand address
+
+For the missing connections (implies no rewards have been sent yet to that user) an Admin from the related channel will reach out to the user in DM asking for a public Algorand address.
+
+In the case of missing opt-ins, an Admin from the related channel will reach out to users via DM to ask them to opt-in for the ASA STats Token.
 
 ## Other official discussions and subprojects
-Every official discussion or subproject upon finish will get a similar rewards related card under the "Done" list.
+Every official discussion or subproject upon completion will get a similar rewards related card under the "Done" list.
 
 The same type of discussions like those for cycle's budgets should take place.
 
