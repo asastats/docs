@@ -30,7 +30,6 @@
 
 ### CONDUCTED INITIAL RESEARCH
 
-- [x] Algofund staking
 - [x] pact.fi
 - [x] WAGMIswap
 - [x] folks.finance
@@ -39,6 +38,7 @@
 
 ### FINISHED RESEARCH
 
+- [x] AlgoFund staking
 - [x] AlgoDEX
 - [x] Octorand
 - [x] Fairmeme Locker
