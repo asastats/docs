@@ -18,7 +18,6 @@
 - [ ] Zone
 - [ ] Algonaut
 - [ ] Element - DeFi 2.0 Hub
-- [ ] AlgoStake
 - [ ] Glitter.finance
 - [ ] EXA Finance
 - [ ] Ally Protocol
@@ -29,6 +28,8 @@
 
 ### CONDUCTED INITIAL RESEARCH
 
+- [x] Tinyman Farm
+- [x] AlgoStake
 - [x] pact.fi
 - [x] WAGMIswap
 - [x] folks.finance
@@ -37,7 +38,6 @@
 
 ### FINISHED RESEARCH
 
-- [x] Tinyman Farm
 - [x] AlgoFund staking
 - [x] AlgoDEX
 - [x] Octorand
