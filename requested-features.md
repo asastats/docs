@@ -1,8 +1,9 @@
 ### HIGH PRIORITY FEATURES
 
-- [ ] Display LP and and LP Farming on Algofi
+- [ ] Add Opul-Opul Algofi staking pool
+- [x] Display LP and and LP Farming on Algofi
 - [ ] Add purchase date for NFTs
-- [ ] Prepare Algofi feature for commited governance-Algos
+- [x] Prepare Algofi feature for commited governance-Algos (Vault)
 - [ ] Display amount of tokens held by address, not total amount+lp
 - [ ] Showing Choice coin governance votes committed by individual users
 - [ ] USD on hover; allowing for users to see USD values of assets in the various asset table by placing the cursor over the icon without clicking
@@ -13,6 +14,7 @@
 
 ### MEDIUM PRIORITY FEATURES
 
+- [ ] Governance through Algofi Vault
 - [ ] Staking feature for the DopeDucky
 - [x] Reverse price per unit too after click
 - [ ] Use % from algostake and display staking rewards
