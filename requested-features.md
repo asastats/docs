@@ -1,6 +1,6 @@
 ### HIGH PRIORITY FEATURES
 
-- [ ] Add Opul-Opul Algofi staking pool
+- [x] Add Opul-Opul Algofi staking pool
 - [x] Display LP and and LP Farming on Algofi
 - [ ] Add purchase date for NFTs
 - [x] Prepare Algofi feature for commited governance-Algos (Vault)
