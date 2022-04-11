@@ -2,7 +2,6 @@
 
 - [ ] Humble Swap
 - [ ] AsaEx (Algodoggo)
-- [ ] app.tinyman.org/#/staking
 - [ ] fxdx.exchange
 - [ ] xBacked
 - [ ] Safe Swap
@@ -38,6 +37,7 @@
 
 ### FINISHED RESEARCH
 
+- [x] Tinyman Farm
 - [x] AlgoFund staking
 - [x] AlgoDEX
 - [x] Octorand
