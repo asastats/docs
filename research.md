@@ -7,7 +7,6 @@
 - [ ] xBacked
 - [ ] Safe Swap
 - [ ] Live Coin Watch
-- [ ] Algofund staking
 - [ ] Yieldly NFT Market
 - [ ] ANS
 - [ ] aorist.art
@@ -31,16 +30,16 @@
 
 ### CONDUCTED INITIAL RESEARCH
 
+- [x] Algofund staking
 - [x] pact.fi
-- [x] AlgoDEX
 - [x] WAGMIswap
 - [x] folks.finance
 - [x] Tinylock
 - [x] gifeconomy.com
 
-
 ### FINISHED RESEARCH
 
+- [x] AlgoDEX
 - [x] Octorand
 - [x] Fairmeme Locker
 - [x] Algofi DEX
