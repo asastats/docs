@@ -99,6 +99,7 @@
 - [ ] Add chart directly in the token section
 - [ ] Statistics for NFTs
 - [ ] Transaction ledger functionality/individual positions
+- [ ] Emphasize in red/green color significant price change between refreshes
 
 #### QA testing (after testing infrastructure is deployed - [Roadmap 19.](https://github.com/asastats/docs/blob/main/roadmap.md))
 
