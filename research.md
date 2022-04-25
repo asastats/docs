@@ -14,14 +14,12 @@
 - [ ] Algoverse DEX and related products
 - [ ] ToolsX LP token locker
 - [ ] CyberDex 
-- [ ] Algopulse
 - [ ] Zone
 - [ ] Element - DeFi 2.0 Hub
 - [ ] Glitter.finance
 - [ ] EXA Finance
 - [ ] Ally Protocol
 - [ ] Algophase
-- [ ] [INITIAL] asalp.io
 - [ ] [FINAL] WAGMIswap
 
 ### CONDUCTED INITIAL RESEARCH
@@ -59,3 +57,9 @@
 - [x] Lofti.ai
 - [x] Yieldly.finance
 - [x] tinyman.org
+
+### NOT APPLICABLE RESEARCH REQUESTS
+
+- Algopulse
+- asalp.io
+- Algonaut
