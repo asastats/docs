@@ -1,6 +1,7 @@
 ### RESEARCH REQUESTS
 
 - [ ] VerdeX Finance
+- [ ] Instant Shuffle
 - [ ] AsaEx (Algodoggo)
 - [ ] fxdx.exchange
 - [ ] xBacked
