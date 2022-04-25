@@ -16,7 +16,6 @@
 - [ ] CyberDex 
 - [ ] Algopulse
 - [ ] Zone
-- [ ] Algonaut
 - [ ] Element - DeFi 2.0 Hub
 - [ ] Glitter.finance
 - [ ] EXA Finance
