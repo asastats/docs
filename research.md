@@ -1,13 +1,12 @@
 ### RESEARCH REQUESTS
 
-- [ ] Humble Swap
+- [ ] VerdeX Finance
 - [ ] AsaEx (Algodoggo)
 - [ ] fxdx.exchange
 - [ ] xBacked
 - [ ] Safe Swap
 - [ ] Live Coin Watch
 - [ ] Yieldly NFT Market
-- [ ] ANS
 - [ ] aorist.art
 - [ ] AlgoWorld.io
 - [ ] Choice coin governance
@@ -23,11 +22,11 @@
 - [ ] Ally Protocol
 - [ ] Algophase
 - [ ] [INITIAL] asalp.io
-- [ ] [FINAL] folks.finance
 - [ ] [FINAL] WAGMIswap
 
 ### CONDUCTED INITIAL RESEARCH
 
+- [x] Humble Swap
 - [x] Tinyman Farm
 - [x] AlgoStake
 - [x] pact.fi
@@ -38,6 +37,8 @@
 
 ### FINISHED RESEARCH
 
+- [x] Folks Finance
+- [x] ANS
 - [x] AlgoFund staking
 - [x] AlgoDEX
 - [x] Octorand
