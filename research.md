@@ -18,7 +18,6 @@
 - [ ] Element - DeFi 2.0 Hub
 - [ ] Glitter.finance
 - [ ] EXA Finance
-- [ ] Ally Protocol
 - [ ] Algophase
 - [ ] [FINAL] WAGMIswap
 
@@ -63,3 +62,5 @@
 - Algopulse
 - asalp.io
 - Algonaut
+- Ally Protocol
+
