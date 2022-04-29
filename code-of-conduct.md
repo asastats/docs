@@ -4,15 +4,8 @@ Draft v2.1.1 - April 10th, 2022
 Use [the official discussion thread](https://www.reddit.com/r/asastats/comments/rtprj8/asa_stats_tasker_code_of_conduct_discussion/) and [Google Docs document](https://docs.google.com/document/d/1fdvNnKWoHgu9VySbUecIERwVdDCzaFLMZlWZhcLG-xk/edit?usp=sharing) for the update suggestions.
 
 # ASA Stats discussions
-Everything in the ASA Stats should be decided upon in a public discussion.
 
-There are three types of discussions in the ASA Stats project:
-
-* **DAO discussions**: discussions that are conducted in the [official repository](https://github.com/asastats/dao-discussion/discussions) and are not related to any internal ASA Stats issues
-
-* **Official discussions**: community-based discussions where meaningful participation is rewarded. The preferred channel for official discussions is the [ASA Stats subreddit](https://www.reddit.com/r/asastats/). A Tasker’s participation in official discussions (or in any other sub-project) has no connection whatsoever with their Tasker role.
-
-* **Other discussions**: everything else in ASA Stats official channels. The exception: places like the #off-topic Discord channel used for chatting without any benefit to the project or the community.
+https://github.com/asastats/channel/wiki/Discussions
 
 # Role of a Tasker
 A Tasker is a member of the ASA Stats community whose main duty is to react to the community’s requests, recording and cataloging community discussions and contributions into a tracking system for developers to process, implement and reward.
