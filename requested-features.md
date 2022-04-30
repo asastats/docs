@@ -73,7 +73,6 @@
 - [ ] USD on hover; allowing for users to see USD values of assets in the various asset table by placing the cursor over the icon without clicking
 - [ ] Mask value with asterisk after the implementation of user settings 
 
-
 #### User widgets
 
 - [ ] List NFT for sale
@@ -106,10 +105,6 @@
 - [ ] Move ALGO/USD to more prominent spot
 - [ ] Make toggle always on top while scrolling down
 - [ ] First accordion initially opened
-
-#### Community tasks
-
-- [ ] Add anchors to the asastats.com FAQ after it is updated
 
 #### Advance bundles
 
