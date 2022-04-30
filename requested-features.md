@@ -29,7 +29,6 @@
 - [ ] Incorporating the like of Algofi's "hide dust feature"
 - [ ] Maintain the accordion state on refresh; the Algo/USD switch on refresh 
 - [ ] For multiple wallets, filter by wallet on the pie chart by crossing out an address. When hovering over a single address, show the single address' total worth in USD or Algo, whichever is selected 
-- [ ] Wallets charts in bundle; getting pie chart of individual wallet when viewing multi-wallet 
 - [ ] Every asset row should show how much it covers or represents from whole portfolio; like the pie chart does.
 - [ ] Filtering and searching ASA in case of very many assets; incorporate a sort/filter/search function, or paging.
 - [ ] Functionality that matches NFT - token pairs (like Algo Curator)
@@ -117,4 +116,6 @@
 #### Advance bundles
 
 - [ ] Edit bundle's addresses
+- [ ] Wallets charts in bundle; getting pie chart of individual wallet when viewing multi-wallet 
+
 
