@@ -1,5 +1,6 @@
 ### HIGH PRIORITY FEATURES
 
+- [ ] [Tinylock functionality](https://github.com/asastats/channel/issues/33)
 - [ ] [Add purchase date for NFTs](https://github.com/asastats/channel/issues/17)
 - [ ] [Showing Choice coin governance votes committed by individual users](https://github.com/asastats/channel/issues/24)
 - [x] Display amount of tokens held by address, not total amount+lp
@@ -14,31 +15,28 @@
 
 ### MEDIUM PRIORITY FEATURES
 
+- [ ] [AMM liquidity pool total amount/value ; Pool share in percentage](https://github.com/asastats/channel/discussions/32)
 - [ ] Redirect with error message on deleted cache; bookmarked hash address redirecting to error page
 - [ ] Governance through Algofi Vault
 - [ ] Staking feature for the DopeDucky
-- [x] Reverse price per unit too after click
 - [ ] Use % from algostake and display staking rewards
 - [ ] Reduce font/Shorten address by adding ...
 - [ ] Add warning message only to affected users if applicable
 - [ ] LP tokens in Yieldly are not show as "in Yiedly"
-- [ ] Display ASA balance in native token, not only Algo
-- [ ] Add support for resolving named wallets (AlgoNameService & NFD support)
 - [ ] Having tokens differentiated as verified, semi-verified and yet-to-be-verified
-- [ ] AMM liquidity pool total amount/value
 - [ ] Allowing multiple sections of the accordion to be expanded at the same time
-- [ ] Show locked ALGO (like opt-in 0.1) in square brackets
-- [ ] Pool share in percentage
-- [ ] Add Algodoggo icon and links
 - [ ] Incorporating the like of Algofi's "hide dust feature"
 - [ ] Maintain the accordion state on refresh; the Algo/USD switch on refresh 
-- [ ] Tinylock functionality
 - [ ] For multiple wallets, filter by wallet on the pie chart by crossing out an address. When hovering over a single address, show the single address' total worth in USD or Algo, whichever is selected 
 - [ ] Wallets charts in bundle; getting pie chart of individual wallet when viewing multi-wallet 
 - [ ] Every asset row should show how much it covers or represents from whole portfolio; like the pie chart does.
 - [ ] Filtering and searching ASA in case of very many assets; incorporate a sort/filter/search function, or paging.
 - [ ] Functionality that matches NFT - token pairs (like Algo Curator)
 - [ ] A warning icon next to ALGO/ASA value in Tinyman swap subsection if the price impact is high
+- [x] [Add support for resolving named wallets (AlgoNameService)](https://github.com/asastats/channel/issues/12=
+- [x] [Display ASA balance in native token, not only Algo](https://github.com/asastats/channel/issues/16)
+- [x] Show locked ALGO (like opt-in 0.1) in square brackets
+- [x] Reverse price per unit too after click
 - [x] AlgoFi staking LP tokens
 - [x] Yieldly staking LP tokens
 
