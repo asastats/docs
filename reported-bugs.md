@@ -40,7 +40,9 @@
 
 ### LOW PRIORITY BUGS
 
-- [ ] Tinyman liquidity pool escrow address shows irrational values
+- [ ] [Tinyman liquidity pool escrow address shows irrational values](https://github.com/asastats/channel/discussions/19)
+- [ ] Large amounts are rendered below icon in collection header
+- [ ] Moon is cut a bit on mobile
 - [ ] By tabbing through the links, URLs are not highlighted in the same manner other links are
 - [ ] Slogan is cut off along the bottom
 - [ ] Long ASA name text overlapping
