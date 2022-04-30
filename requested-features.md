@@ -30,11 +30,11 @@
 - [ ] Maintain the accordion state on refresh; the Algo/USD switch on refresh 
 - [ ] For multiple wallets, filter by wallet on the pie chart by crossing out an address. When hovering over a single address, show the single address' total worth in USD or Algo, whichever is selected 
 - [ ] Every asset row should show how much it covers or represents from whole portfolio; like the pie chart does.
-- [ ] Filtering and searching ASA in case of very many assets; incorporate a sort/filter/search function, or paging.
 - [ ] Functionality that matches NFT - token pairs (like Algo Curator)
 - [ ] A warning icon next to ALGO/ASA value in Tinyman swap subsection if the price impact is high
 - [x] [Add support for resolving named wallets (AlgoNameService)](https://github.com/asastats/channel/issues/12=
 - [x] [Display ASA balance in native token, not only Algo](https://github.com/asastats/channel/issues/16)
+- [x] Filtering and searching ASA in case of very many assets; incorporate a sort/filter/search function, or paging.
 - [x] Show locked ALGO (like opt-in 0.1) in square brackets
 - [x] Reverse price per unit too after click
 - [x] AlgoFi staking LP tokens
@@ -42,18 +42,14 @@
 
 ### LOW PRIORITY FEATURES 
 
+- [ ] [NFT Grocery store market link](https://github.com/asastats/channel/issues/13)
+- [ ] [Improved and intelligent 404 page](https://github.com/asastats/channel/issues/15)
 - [ ] Possibility to write notes
 - [ ] Grouping by creator address (like Grocery Store)
 - [ ] Update Dark/Light icon to moon and crescent
-- [ ] NFT Grocery store market link
 - [ ] Scam/rug pulled tokens warning in the address page
 - [ ] Share address page without exposing actual addresses
-- [ ] Chose/switch between multiple wallets
 - [ ] A collage view of all user's NFTs
-- [ ] Improved and intelligent 404 page; in situations where ETH, BTC etc addresses are entered, a smart response acknowledging valid address, but wrong place, should be created. 
-- [ ] Mask value with asterisk after the implementation of user settings 
-- [ ] Large amounts are rendered below icon in collection header
-- [ ] Moon is cut a bit on mobile
 - [ ] Research and improve the mechanisms for non-Algo pools
 - [ ] Watchlist (show 0 balance ASA)
 - [ ] Show Yieldly rewards amount available to claim
@@ -75,6 +71,8 @@
 - [ ] NFTs placed below ASAs
 - [ ] Charts placed between NFTs and ASAs on mobile
 - [ ] USD on hover; allowing for users to see USD values of assets in the various asset table by placing the cursor over the icon without clicking
+- [ ] Mask value with asterisk after the implementation of user settings 
+
 
 #### User widgets
 
@@ -117,5 +115,6 @@
 
 - [ ] Edit bundle's addresses
 - [ ] Wallets charts in bundle; getting pie chart of individual wallet when viewing multi-wallet 
+- [ ] Chose/switch between multiple wallets
 
 
