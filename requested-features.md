@@ -10,13 +10,13 @@
 - [x] Add Opul-Opul Algofi staking pool
 - [x] Display LP and and LP Farming on Algofi
 
-
 ### MEDIUM PRIORITY FEATURES
 
 - [ ] [Add purchase date for NFTs](https://github.com/asastats/channel/issues/17)
 - [ ] [Showing Choice coin governance votes committed by individual users](https://github.com/asastats/channel/issues/24)
 - [ ] [AMM liquidity pool total amount/value ; Pool share in percentage](https://github.com/asastats/channel/discussions/32)
 - [ ] [Add support for VerdeX Finance](https://github.com/asastats/channel/issues/2)
+- [ ] Check prices from all major pools, ALGO, USDC, YLDY at once
 - [ ] Redirect with error message on deleted cache; bookmarked hash address redirecting to error page
 - [ ] Governance through Algofi Vault
 - [ ] Staking feature for the DopeDucky
