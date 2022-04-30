@@ -32,7 +32,7 @@
 - [ ] Every asset row should show how much it covers or represents from whole portfolio; like the pie chart does.
 - [ ] Functionality that matches NFT - token pairs (like Algo Curator)
 - [ ] A warning icon next to ALGO/ASA value in Tinyman swap subsection if the price impact is high
-- [x] [Add support for resolving named wallets (AlgoNameService)](https://github.com/asastats/channel/issues/12=
+- [x] [Add support for resolving named wallets (AlgoNameService)](https://github.com/asastats/channel/issues/12)
 - [x] [Display ASA balance in native token, not only Algo](https://github.com/asastats/channel/issues/16)
 - [x] Filtering and searching ASA in case of very many assets; incorporate a sort/filter/search function, or paging.
 - [x] Show locked ALGO (like opt-in 0.1) in square brackets
