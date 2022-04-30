@@ -1,8 +1,6 @@
 ### HIGH PRIORITY FEATURES
 
 - [ ] [Tinylock functionality](https://github.com/asastats/channel/issues/33)
-- [ ] [Add purchase date for NFTs](https://github.com/asastats/channel/issues/17)
-- [ ] [Showing Choice coin governance votes committed by individual users](https://github.com/asastats/channel/issues/24)
 - [x] Display amount of tokens held by address, not total amount+lp
 - [x] Prepare Algofi feature for commited governance-Algos (Vault)
 - [x] Add support for upcoming YLDY/HDL staking on Yieldly
@@ -15,7 +13,10 @@
 
 ### MEDIUM PRIORITY FEATURES
 
+- [ ] [Add purchase date for NFTs](https://github.com/asastats/channel/issues/17)
+- [ ] [Showing Choice coin governance votes committed by individual users](https://github.com/asastats/channel/issues/24)
 - [ ] [AMM liquidity pool total amount/value ; Pool share in percentage](https://github.com/asastats/channel/discussions/32)
+- [ ] [Add support for VerdeX Finance](https://github.com/asastats/channel/issues/2)
 - [ ] Redirect with error message on deleted cache; bookmarked hash address redirecting to error page
 - [ ] Governance through Algofi Vault
 - [ ] Staking feature for the DopeDucky
