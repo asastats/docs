@@ -1,19 +1,20 @@
 ### HIGH PRIORITY FEATURES
 
-- [x] Implement AlgoFund staking
-- [x] Add Opul-Opul Algofi staking pool
-- [x] Display LP and and LP Farming on Algofi
-- [ ] Add purchase date for NFTs
+- [ ] [Add purchase date for NFTs](https://github.com/asastats/channel/issues/17)
+- [ ] [Showing Choice coin governance votes committed by individual users](https://github.com/asastats/channel/issues/24)
+- [x] Display amount of tokens held by address, not total amount+lp
 - [x] Prepare Algofi feature for commited governance-Algos (Vault)
-- [ ] Display amount of tokens held by address, not total amount+lp
-- [ ] Showing Choice coin governance votes committed by individual users
-- [ ] Redirect with error message on deleted cache; bookmarked hash address redirecting to error page
 - [x] Add support for upcoming YLDY/HDL staking on Yieldly
 - [x] Add support for upcoming ARCC (LP) pool on Yieldly
 - [x] Add support for the upcoming XET/YLDY LP staking pool in Yieldly
+- [x] Implement AlgoFund staking
+- [x] Add Opul-Opul Algofi staking pool
+- [x] Display LP and and LP Farming on Algofi
+
 
 ### MEDIUM PRIORITY FEATURES
 
+- [ ] Redirect with error message on deleted cache; bookmarked hash address redirecting to error page
 - [ ] Governance through Algofi Vault
 - [ ] Staking feature for the DopeDucky
 - [x] Reverse price per unit too after click
