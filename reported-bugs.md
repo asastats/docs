@@ -24,6 +24,7 @@
 ### MEDIUM PRIORITY BUGS
 
 - [ ] Yieldly staking pools are not sorted by value
+- [ ] Fix display issue for narrow mobile screen
 - [ ] [B1] NFT showing in wallet after being sold
 - [ ] In the case of multiple level properties JSON array are shown under NFT
 - [ ] Overlapping text in NFT properties columns
