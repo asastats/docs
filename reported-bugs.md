@@ -2,9 +2,8 @@
 
 - [ ] Count display on number of collections is wrong
 - [ ] Wrong last purchase price for FORUM Astro #2
-- [ ] RandGallery and Algogems don't show updated prices
 - [ ] Some Rand Gallery listings are not shown
-- [ ] Modifying the description of ASA Stats in the meta tag of the website
+- [ ] [Modifying the description of ASA Stats in the meta tag of the website]/https://github.com/asastats/channel/issues/36)
 - [ ] Pie shows grey/others label behind the pie (visual bug), after a 14 assets have been passed
 - [ ] Fourth or fifth wallet address in bundle going off screen on mobile  
 - [x] Stale data from AlgoFi still displayed after >1 hr
@@ -23,7 +22,8 @@
 
 ### MEDIUM PRIORITY BUGS
 
-- [ ] Yieldly staking pools are not sorted by value
+- [ ] [RandGallery doesn't show updated prices](https://github.com/asastats/channel/issues/51)
+- [ ] [Algogems doesn't show updated prices](https://github.com/asastats/channel/issues/52)
 - [ ] Fix display issue for narrow mobile screen
 - [ ] [B1] NFT showing in wallet after being sold
 - [ ] In the case of multiple level properties JSON array are shown under NFT
@@ -40,6 +40,7 @@
 
 ### LOW PRIORITY BUGS
 
+- [ ] [Yieldly staking pools are not sorted by value](https://github.com/asastats/channel/issues/55)
 - [ ] [Tinyman liquidity pool escrow address shows irrational values](https://github.com/asastats/channel/discussions/19)
 - [ ] Moon is cut a bit on mobile
 - [ ] By tabbing through the links, URLs are not highlighted in the same manner other links are
